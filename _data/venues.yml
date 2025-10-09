@@ -5,5 +5,53 @@
 "PhysRev":
   url: https://journals.aps.org/
 
+"PhysRevApplied":
+  url: https://journals.aps.org/prapplied
+  color: "#00369f"
+
+"PhysRevB":
+  url: https://journals.aps.org/prb
+  color: "#004B8D"
+
+"PhysRevLett":
+  url: https://journals.aps.org/prl
+  color: "#AA1E22"
+
+"NanoLett":
+  url: https://pubs.acs.org/journal/nalefd
+  color: "#228B22"
+
+"AdvMater":
+  url: https://onlinelibrary.wiley.com/journal/15214095
+  color: "#1E90FF"
+
+"IEEETransApplSupercon":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=77
+  color: "#00629B"
+
+"PhysRep":
+  url: https://www.sciencedirect.com/journal/physics-reports
+  color: "#8B0000"
+
+"IEEE-ECTC":
+  url: https://www.ectc.net/
+  color: "#7B68EE"
+
+"MMM-INTERMAG":
+  url: https://magnetism.org/
+  color: "#8B008B"
+
+"AJP":
+  url: https://aapt.scitation.org/journal/ajp
+  color: "#00369f"
+
+"SemicondSciTechnol":
+  url: https://iopscience.iop.org/journal/0268-1242
+  color: "#FF8C00"
+
+"I-SMAC":
+  url: https://ieeexplore.ieee.org/xpl/conhome/1003393/all-proceedings
+  color: "#FF4500"
+
 "Vision":
   color: "#009f36"

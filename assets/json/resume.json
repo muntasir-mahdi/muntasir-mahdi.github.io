@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "name": "Muntasir Mahdi",
+    "label": "Ph.D student in Electrical Engineering",
+    "image": "assets/img/mm_in_lab.png",
+    "email": "muntasirm@vt.edu",
+    "phone": "",
+    "url": "https://muntasir-mahdi.github.io",
+    "summary": "Ph.D. student at Virginia Tech specializing in semiconductor devices, epitaxial growth, and quantum photonic systems. My research explores the design, fabrication, and physical modeling of group-IV and 2D material systems, focusing on Ge/GeSn integration, carrier transport, and optoelectronic coupling at the nanoscale. I bridge experimental and computational approaches across thin film growth, device characterization, and TCAD modeling for next-generation nanoelectronics.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "Whittemore Hall, Perry St",
+      "postalCode": "VA 24060",
+      "city": "Blacksburg",
       "countryCode": "US",
-      "region": "California"
+      "region": "Virginia"
     },
     "profiles": [
       {

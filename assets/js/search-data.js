@@ -494,7 +494,7 @@ ninja.data = [{
         title: 'YouTube',
         section: 'Socials',
         handler: () => {
-          window.open("https://youtube.com/@https://www.youtube.com/@NaiveScience", "_blank");
+          window.open("https://youtube.com/@NaiveScience", "_blank");
         },
       },{
       id: 'light-theme',

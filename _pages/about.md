@@ -28,7 +28,7 @@ social: true  # includes social icons at the bottom of the page
 nav_order: 1
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -63,16 +63,22 @@ latest_posts:
     display: inline-block;
   }
   blockquote {
-  display:inline-block; 
-  margin:10px 0; 
-  padding:6px 10px; 
-  background-color:#40979bff; 
-  color:white; 
-  border-radius:6px;
-  font-style:italic; 
-  font-size:1.05em;
+    display: inline-block;
+    margin: 5px 0;
+    padding: 6px 10px;
+    border-radius: 6px;
+    font-style: italic;
+    font-size: 1.05em;
+    background-color: var(--global-bg-secondary-color);
+    color: var(--global-text-color);
+    border-left: 4px solid var(--global-theme-color);
   }
   h2, h3 { margin-top: 25px; }
+
+  /* Optional: a slightly tinted background in light theme only */
+  [data-theme="light"] blockquote {
+    background-color: #f8f0e3;
+}
 </style>
 
 <blockquote>

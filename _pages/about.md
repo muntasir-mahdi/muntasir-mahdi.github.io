@@ -38,7 +38,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
@@ -144,10 +144,3 @@ I use and develop tools for **device simulation (TCAD)**, **measurement automati
 - **Tools:** TCAD Sentaurus, ADS, Virtuoso, Python automation, AFM, VNA, XRD, PPMS, Ellipsometry  
 
 ---
-
-
-## 🌐 Find Me Online
-
-- 🧠 [Google Scholar](https://scholar.google.com/citations?user=U-1X_XgAAAAJ&hl=en)  
-- 💼 [LinkedIn](https://linkedin.com/in/muntasir-mahdi)  
-- 💻 [GitHub](https://github.com/muntasir-mahdi)

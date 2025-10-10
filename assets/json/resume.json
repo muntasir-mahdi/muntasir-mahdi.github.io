@@ -2,10 +2,10 @@
   "basics": {
     "name": "Muntasir Mahdi",
     "label": "Ph.D student in Electrical Engineering",
-    "image": "assets/img/mm_in_lab.png",
+    "image": "mm_in_lab.png",
     "email": "muntasirm@vt.edu",
     "phone": "",
-    "url": "https://muntasir-mahdi.github.io",
+    "url": "",
     "summary": "Ph.D. student at Virginia Tech specializing in semiconductor devices, epitaxial growth, and quantum photonic systems. My research explores the design, fabrication, and physical modeling of group-IV and 2D material systems, focusing on Ge/GeSn integration, carrier transport, and optoelectronic coupling at the nanoscale. I bridge experimental and computational approaches across thin film growth, device characterization, and TCAD modeling for next-generation nanoelectronics.",
     "location": {
       "address": "Whittemore Hall, Perry St",
@@ -16,142 +16,521 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "LinkedIn",
+        "username": "muntasir-mahdi",
+        "url": "https://linkedin.com/in/muntasir-mahdi"
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "institution": "Virginia Tech",
+      "location": "Blacksburg, VA, USA",
+      "url": "https://vt.edu",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "Ph.D.",
+      "startDate": "2024-08",
+      "score": "GPA: 3.9 / 4.0",
+      "courses": [
+        "Semiconductor Devices",
+        "Quantum Systems",
+        "Photonic Integration"
+      ]
     },
+
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "institution": "Auburn University",
+      "location": "Auburn, AL, USA",
+      "url": "https://auburn.edu",
+      "area": "Electrical and Computer Engineering",
+      "studyType": "M.S.",
+      "startDate": "2021-05",
+      "endDate": "2024-08",
+      "score": "GPA: 3.5 / 4.0",
+      "courses": [
+        "Quantum Spintronics",
+        "Superconducting Electronics",
+        "VLSI Design and Fabrication"
+      ]
     },
+
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+      "institution": "Shahjalal University of Science and Technology (SUST)",
+      "location": "Sylhet, Bangladesh",
+      "url": "https://www.sust.edu",
+      "area": "Electrical and Electronic Engineering",
+      "studyType": "B.Sc.",
+      "startDate": "2015-03",
+      "endDate": "2019-04",
+      "score": "GPA: 3.58 / 4.0",
+      "courses": [
+        "Analog & Digital Electronics",
+        "Control Systems",
+        "Embedded Systems and Robotics"
       ]
     }
   ],
+
+  "work": [
+    {
+      "name": "Department of Electrical and Computer Engineering, Virginia Tech",
+      "position": "Graduate Research Assistant",
+      "url": "https://ece.vt.edu",
+      "startDate": "2024-08",
+      "summary": "NSF-funded research on epitaxial Ge/GeSn quantum wells for tunable photonic and electronic devices, integrating thin-film growth, optical characterization, and TCAD modeling.",
+      "highlights": [
+        "MBE growth of Ge/GeSn quantum wells",
+        "Strain–composition–optics correlation",
+        "Mid-IR laser and detector design",
+        "TCAD and band-structure simulation",
+        "Undergraduate mentoring (ECE MDE)"
+      ]
+    },
+
+    {
+      "name": "Department of Electrical and Computer Engineering, Auburn University",
+      "position": "Graduate Research Assistant",
+      "url": "https://eng.auburn.edu/ece",
+      "startDate": "2021-05",
+      "endDate": "2024-08",
+      "summary": "AFOSR and NSF-funded projects on hybrid quantum devices and superconducting nanofabrication for post-exascale computing architectures.",
+      "highlights": [
+        "Superconducting resonators & CPWs",
+        "Hybrid magnon–photon systems",
+        "Python-based measurement automation",
+        "Ion milling & cryogenic PCB design",
+        "Nb Josephson junction fabrication"
+      ]
+    },
+
+    {
+      "name": "University of Science and Technology Chittagong (USTC)",
+      "position": "Lecturer, Department of Electrical & Electronic Engineering",
+      "url": "https://ustc.edu.bd",
+      "startDate": "2019-12",
+      "endDate": "2021-05",
+      "summary": "Taught core electronics and control systems, supervised labs, and established the department’s first VLSI Laboratory.",
+      "highlights": [
+        "Electronics & control systems",
+        "Lab supervision & project advising",
+        "VLSI lab setup & EDA tools",
+        "Curriculum development"
+      ]
+    },
+
+    {
+      "name": "Department of Electrical and Computer Engineering, Virginia Tech",
+      "position": "Graduate Teaching Assistant",
+      "startDate": "2024-08",
+      "summary": "Supported VLSI design and semiconductor device courses, guiding student research and design projects.",
+      "highlights": [
+        "Cadence Virtuoso (NCSU-FreePDK45)",
+        "Major Design Experience mentoring",
+        "Ge/GeSn laser & FET projects",
+        "TCAD for NC-NSFETs"
+      ]
+    },
+
+    {
+      "name": "College of Science, Virginia Tech",
+      "position": "Graduate Assistant (Mentor, Data Science Camp)",
+      "startDate": "2025-05",
+      "endDate": "2025-08",
+      "summary": "Mentored high school students in computing and data science as part of Virginia Tech’s outreach initiative.",
+      "highlights": [
+        "Raspberry Pi cluster setup",
+        "Python & data analysis mentoring",
+        "Distributed computing concepts"
+      ]
+    },
+
+    {
+      "name": "Department of Electrical and Computer Engineering, Auburn University",
+      "position": "Graduate Teaching Assistant",
+      "startDate": "2024-01",
+      "endDate": "2024-05",
+      "summary": "Assisted in teaching Fundamentals of Electrical Engineering (ELEC 3810) for 75 students.",
+      "highlights": [
+        "Grading & exam preparation",
+        "Problem-solving sessions",
+        "Student academic support"
+      ]
+    },
+
+    {
+      "name": "Shahjalal University of Science and Technology (SUST), Bangladesh",
+      "position": "Research Assistant",
+      "startDate": "2018-07",
+      "endDate": "2019-07",
+      "summary": "Undergraduate research and robotics development projects under SUSTRC funding.",
+      "highlights": [
+        "CNTFET modeling (MATLAB/Simulink)",
+        "Mars Rover (URC & ERC competitions)",
+        "UAV-based document transfer system",
+        "RFID security system design",
+        "National robotics competition awards"
+      ]
+    }
+  ],
+
+
+
+  "awards": [
+    {
+      "title": "EEE Magnetics Society Travel Grant",
+      "date": "2022-01-01",
+      "awarder": "Joint MMM-Intermag Conference",
+      "url": "",
+      "summary": "Awarded for academic excellence and research contribution in applied magnetism."
+    },
+    {
+      "title": "Bangladesh Sweden Trust Fund Travel Grant",
+      "date": "2021-01-01",
+      "awarder": "Economic Relations Division, Government of the People’s Republic of Bangladesh",
+      "url": "",
+      "summary": "Supported travel to the United States for graduate studies based on academic merit."
+    },
+    {
+      "title": "Champion, Fighter Robot Competition",
+      "date": "2016-01-01",
+      "awarder": "Techfest, Independent University Bangladesh (IUB)",
+      "url": "",
+      "summary": "Secured first place among national participants in a robotics competition."
+    },
+    {
+      "title": "2nd Runner-Up, First Autonomous Sumo Robot Competition",
+      "date": "2016-01-01",
+      "awarder": "Technovanza, Bangladesh",
+      "url": "",
+      "summary": "Recognized for design and control strategy in autonomous robotics."
+    },
+    {
+      "title": "Most Prominent Debater Award",
+      "date": "2015-01-01",
+      "awarder": "Intra-Club Debating Competition, SUST",
+      "url": "",
+      "summary": "Acknowledged for outstanding debating and public speaking skills."
+    },
+    {
+      "title": "Qualified Quarter Finalist, Inter-Department Debating Competition",
+      "date": "2017-01-01",
+      "awarder": "SUST EEE Department",
+      "url": "",
+      "summary": "Reached the quarter-final round representing the EEE department."
+    },
+    {
+      "title": "Man of the Final, Intra-Department Football Tournament",
+      "date": "2017-01-01",
+      "awarder": "SUST",
+      "url": "",
+      "summary": "Received individual award for exceptional performance in the final match."
+    },
+    {
+      "title": "Secondary & Higher Secondary Education Board Scholarships",
+      "date": "2012-01-01",
+      "awarder": "National Curriculum & Textbook Board, Bangladesh",
+      "url": "",
+      "summary": "Merit-based scholarships for SSC and HSC exams (2012 & 2014) recognizing academic excellence."
+    },
+    {
+      "title": "Bangladesh Academy of Science (BAS) Divisional Science Olympiad",
+      "date": "2012-01-01",
+      "awarder": "BAS",
+      "url": "",
+      "summary": "Ranked 7th nationally for outstanding performance in science Olympiad."
+    },
+    {
+      "title": "Bangladesh Academy of Science (BAS) Divisional Science Olympiad",
+      "date": "2013-01-01",
+      "awarder": "BAS",
+      "url": "",
+      "summary": "Ranked 5th nationally for outstanding performance in science Olympiad."
+    }
+  ],
+
+  "certificates": [
+    {
+      "name": "Cybersecurity Essentials for Student Employees",
+      "date": "2025-08-01",
+      "issuer": "Virginia Tech",
+      "url": "",
+      "icon": "fa-solid fa-shield"
+    },
+    {
+      "name": "Laboratory Hazardous Waste",
+      "date": "2025-08-01",
+      "issuer": "Virginia Tech",
+      "url": "",
+      "icon": "fa-solid fa-flask"
+    },
+    {
+      "name": "Youth Protection at VT with Title IX",
+      "date": "2025-04-01",
+      "issuer": "Virginia Tech",
+      "url": "",
+      "icon": "fa-solid fa-user-shield"
+    },
+    {
+      "name": "Analytical X-ray Equipment",
+      "date": "2025-01-01",
+      "issuer": "Virginia Tech",
+      "url": "",
+      "icon": "fa-solid fa-radiation"
+    },
+    {
+      "name": "Compressed Gas Cylinder Safety",
+      "date": "2025-01-01",
+      "issuer": "Virginia Tech",
+      "url": "",
+      "icon": "fa-solid fa-gas-pump"
+    },
+    {
+      "name": "Hazard Communication (Right-to-Know)",
+      "date": "2025-01-01",
+      "issuer": "Virginia Tech",
+      "url": "",
+      "icon": "fa-solid fa-exclamation-triangle"
+    },
+    {
+      "name": "State of Virginia: Employee Safety and Disaster Awareness",
+      "date": "2024-11-01",
+      "issuer": "State of Virginia",
+      "url": "",
+      "icon": "fa-solid fa-triangle-exclamation"
+    },
+    {
+      "name": "State of Virginia: The Road to Cultural Competence",
+      "date": "2024-11-01",
+      "issuer": "State of Virginia",
+      "url": "",
+      "icon": "fa-solid fa-globe"
+    },
+    {
+      "name": "READ: Respect in Employment and Anti-Discrimination Compliance Training",
+      "date": "2024-11-01",
+      "issuer": "Virginia Tech",
+      "url": "",
+      "icon": "fa-solid fa-user-check"
+    },
+    {
+      "name": "General Laboratory Safety",
+      "date": "2024-11-01",
+      "issuer": "Virginia Tech",
+      "url": "",
+      "icon": "fa-solid fa-vial"
+    },
+    {
+      "name": "Personal Protective Equipment (PPE) Awareness",
+      "date": "2024-11-01",
+      "issuer": "Virginia Tech",
+      "url": "",
+      "icon": "fa-solid fa-person-booth"
+    },
+    {
+      "name": "Portable Fire Extinguishers",
+      "date": "2024-11-01",
+      "issuer": "Virginia Tech",
+      "url": "",
+      "icon": "fa-solid fa-fire-extinguisher"
+    },
+    {
+      "name": "Python for Data Science and Machine Learning",
+      "date": "2020-04-01",
+      "issuer": "Pierian Training",
+      "url": "",
+      "icon": "fa-solid fa-code"
+    },
+    {
+      "name": "Nanotechnology: A Maker’s Course",
+      "date": "2020-05-01",
+      "issuer": "Duke University – Coursera",
+      "url": "",
+      "icon": "fa-solid fa-microscope"
+    },
+    {
+      "name": "Semiconductor Devices",
+      "date": "2020-05-01",
+      "issuer": "University of Colorado Boulder – Coursera",
+      "url": "",
+      "icon": "fa-solid fa-chip"
+    },
+    {
+      "name": "Diode – pn Junction and Metal Semiconductor Contact",
+      "date": "2020-05-01",
+      "issuer": "University of Colorado Boulder – Coursera",
+      "url": "",
+      "icon": "fa-solid fa-bolt"
+    },
+    {
+      "name": "Transistor – FET and BJT",
+      "date": "2020-05-01",
+      "issuer": "University of Colorado Boulder – Coursera",
+      "url": "",
+      "icon": "fa-solid fa-bolt"
+    },
+    {
+      "name": "Quantum Mechanics",
+      "date": "2020-05-01",
+      "issuer": "University of Colorado Boulder – Coursera",
+      "url": "",
+      "icon": "fa-solid fa-atom"
+    },
+    {
+      "name": "VLSI CAD Part I: Logic",
+      "date": "2020-05-01",
+      "issuer": "University of Illinois Urbana-Champaign – Coursera",
+      "url": "",
+      "icon": "fa-solid fa-microchip"
+    },
+    {
+      "name": "Python Data Structures",
+      "date": "2020-05-01",
+      "issuer": "University of Michigan – Coursera",
+      "url": "",
+      "icon": "fa-solid fa-code"
+    },
+    {
+      "name": "Semiconductor Physics",
+      "date": "2020-05-01",
+      "issuer": "University of Colorado Boulder – Coursera",
+      "url": "",
+      "icon": "fa-solid fa-chalkboard"
+    },
+    {
+      "name": "Programming for Everybody (Getting Started with Python)",
+      "date": "2020-05-01",
+      "issuer": "University of Michigan – Coursera",
+      "url": "",
+      "icon": "fa-solid fa-laptop-code"
+    }
+  ],
+
+  "publications": [
+    {
+      "name": "Peer-Reviewed Journal and Conference Papers",
+      "publisher": "Wiley, APS, IEEE, AIP",
+      "releaseDate": "2024",
+      "summary": "Authored and co-authored 8+ journal papers and 3 conference proceedings on semiconductor devices, quantum systems, and photonics.",
+      "url": "https://muntasir-mahdi.github.io/publications/"
+    }
+  ],
+
+  "skills": [
+    {
+      "name": "Semiconductor & Quantum Device Fabrication",
+      "level": "Expert",
+      "icon": "fa-solid fa-microchip",
+      "keywords": [
+        "Photolithography",
+        "E-beam Lithography",
+        "Liftoff",
+        "Electroplating",
+        "DC & RF Sputtering",
+        "Ion Milling",
+        "Cleanroom Processing",
+        "Quantum Well Engineering",
+        "Quantum Dot Engineering"
+      ]
+    },
+    {
+      "name": "Characterization & Instrumentation",
+      "level": "Expert",
+      "icon": "fa-solid fa-vials",
+      "keywords": [
+        "PPMS",
+        "XRD",
+        "AFM",
+        "MFM",
+        "VNA",
+        "Spectroscopic Ellipsometry",
+        "Cryogenic Measurements"
+      ]
+    },
+    {
+      "name": "Computational & Programming",
+      "level": "Advanced",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python",
+        "MATLAB",
+        "C/C++",
+        "Assembly Language",
+        "OriginLab",
+        "Data Analysis",
+        "Visualization",
+        "Device Simulation",
+        "Statistical Modeling"
+      ]
+    },
+    {
+      "name": "Electronic Design & Software Tools",
+      "level": "Advanced",
+      "icon": "fa-solid fa-toolbox",
+      "keywords": [
+        "Cadence Virtuoso",
+        "ADS",
+        "Altium Designer",
+        "Proteus",
+        "Microwind",
+        "PowerWorld",
+        "LaTeX",
+        "Autodesk Fusion 360",
+        "AutoCAD",
+        "Corel Video Studio",
+        "HTML",
+        "Wordpress"
+      ]
+    },
+    {
+      "name": "Embedded Systems & Hardware Integration",
+      "level": "Advanced",
+      "icon": "fa-solid fa-microchip",
+      "keywords": [
+        "Microcontrollers (ATmega328P)",
+        "Raspberry Pi",
+        "Embedded Systems Design",
+        "Sensor Interfacing",
+        "Robotics Applications"
+      ]
+    },
+    {
+      "name": "Research & Project Management",
+      "level": "Advanced",
+      "icon": "fa-solid fa-project-diagram",
+      "keywords": [
+        "Semiconductor Device Physics",
+        "Quantum Electronics",
+        "Spintronics & Magnonics",
+        "Superconducting Resonators",
+        "III-V Buffer Layer Engineering",
+        "Epitaxial Growth (MBE, CVD)",
+        "Materials Integration",
+        "Project Planning",
+        "International Collaboration",
+        "Grant Writing"
+      ]
+    },
+    {
+      "name": "Soft Skills & Leadership",
+      "level": "Advanced",
+      "icon": "fa-solid fa-people-group",
+      "keywords": [
+        "Technical Communication",
+        "Team Leadership",
+        "Teaching & Mentorship",
+        "Workshop Facilitation",
+        "Event & Budget Management",
+        "Strategic Outreach",
+        "Scientific Presentation",
+        "Community Engagement"
+      ]
+    }
+  ],
+
   "languages": [
     {
-      "language": "German",
+      "language": "Bengali",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -161,40 +540,59 @@
       "icon": ""
     }
   ],
+
   "interests": [
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Personal Interests",
+      "icon": "fa-solid fa-heart",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Robotics Competitions",
+        "Science Outreach",
+        "Data Science Projects",
+        "AI & Machine Learning",
+        "Astronomy & Space Technology"
       ]
     }
   ],
+
+
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Dr. Michael C. Hamilton",
+      "icon": "fa-solid fa-user-tie",
+      "reference": "James B. Davis Professor, Dept. of ECE, Auburn University. Director, AMNSTC. Email: mchamilton@auburn.edu | Office: 334-844-1879 | Mobile: 978-944-2112 | Researcher ID: Q-8217-2017 | ORCID: 0000-0002-8635-6790 | Website: https://fast.auburn.edu/"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Dr. Mantu Hudait",
+      "icon": "fa-solid fa-chalkboard-teacher",
+      "reference": "Principal Investigator, Virginia Tech, Dept. of ECE. Email: mantu.hudait@vt.edu | Tel: 540-231-6663 | Fax: 540-231-3362 | ORCID: 0000-0002-9789-3081 | Website: https://www.adsel.ece.vt.edu/drhudait.html"
+    },
+    {
+      "name": "Dr. Victoria Corbin",
+      "icon": "fa-solid fa-building-columns",
+      "reference": "Assistant Dean for Outreach and Student Engagement, Virginia Tech. Email: cvictoria@vt.edu | Office: North End Center, Suite 4300, 300 Turner St NW, Blacksburg, VA 24061"
     }
   ],
+
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Ge/GeSn Photonics",
+      "summary": "Research on epitaxial growth, optical characterization, and tunable laser devices in group-IV photonic systems.",
+      "highlights": ["Quantum Wells", "Laser Design", "Optoelectronics"],
+      "url": "https://muntasir-mahdi.github.io/projects#ge-gsn-photonics"
+    },
+    {
+      "name": "Hybrid Quantum Devices",
+      "summary": "Development of magnon–photon and magnon–magnon coupled on-chip devices.",
+      "highlights": ["Superconducting Resonators", "Quantum Spintronics"],
+      "url": "https://muntasir-mahdi.github.io/projects#hybrid-quantum-devices"
+    },
+    {
+      "name": "Robotics & UAV Systems",
+      "summary": "Undergraduate research on Mars Rover prototypes, UAV-based document transfer, and robotics competitions.",
+      "highlights": ["Autonomous Robots", "UAV Design", "RFID Systems"],
+      "url": "https://muntasir-mahdi.github.io/projects#robotics-uav"
     }
   ]
+
 }

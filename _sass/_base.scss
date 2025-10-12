@@ -183,6 +183,26 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
+// Card hover effect
+.card.hoverable {
+  transition: all 0.3s ease;  // smooth transition
+  cursor: pointer;            // pointer on hover
+}
+
+.card.hoverable:hover {
+  background-color: #353535; // light highlight color
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.25); // subtle lift shadow
+  transform: translateY(-5px) scale(1.02); // slight upward lift
+}
+
+// Optional: make links inside card inherit color
+.card.hoverable a {
+  color: inherit;
+  text-decoration: none;
+}
+
+
+
 // Citation
 
 .citation,

@@ -556,6 +556,60 @@ footer.sticky-bottom {
   transform: translateX(-15px) translateY(-5px);
 }
 
+/* Certificates list styling */
+.certificate-item {
+  display: flex;
+  justify-content: space-between; /* name left, org/date right */
+  align-items: center;
+  padding: 4px 0;
+  gap: 12px;
+}
+
+.certificate-left {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  min-width: 0; /* prevent overflow */
+}
+
+.cert-icon {
+  margin-right: 6px; /* space after icon */
+  color: inherit; /* inherit site’s link/text color */
+  opacity: 0.85; /* optional subtle effect */
+}
+
+.cert-name {
+  font-weight: 500;
+  text-decoration: none;
+  color: inherit; /* inherits theme color */
+}
+
+.cert-name:hover {
+  text-decoration: underline; /* keeps normal hover look */
+}
+
+.certificate-meta {
+  text-align: right;
+  color: var(--global-muted-text-color, #666);
+  font-size: 0.95rem;
+  white-space: nowrap; /* keeps everything on one line */
+  display: flex;
+  align-items: center;
+  justify-content: flex-end; /* push to right edge */
+  gap: 4px; /* small space between issuer, dash, date */
+  min-width: 180px; /* optional, tweak as needed */
+}
+
+.cert-issuer {
+  font-weight: 600;
+}
+
+.cert-date {
+  font-weight: 400;
+  font-size: 0.9rem;
+}
+
+
 // Repositories
 
 @media (min-width: 768px) {

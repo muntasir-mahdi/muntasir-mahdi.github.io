@@ -1,122 +1,92 @@
 ---
 layout: page
-title: Superconducting Nb/Cu Resonator Fabrication & Measurement
-description: Design, fabrication, and room-temperature measurement of superconducting Nb and Cu microwave resonators.
-img: assets/img/6.jpg
+title: Superconducting Nb & Cu Resonator and CPW Fabrication
+description: Microfabrication of superconducting Nb resonators/ CPWs for cryogenic measurements and Cu resonators/ CPWs for room-temperature testing.
+img: assets/img/nb_cu_cpw_res/6.jpg
 importance: 4
 category: Graduate Research
 ---
 
 ## Overview
 
-This project focused on the **design, microfabrication, and characterization** of superconducting **niobium (Nb)** and **copper (Cu)** resonators, fabricated on Si and sapphire substrates.  
-Although these devices are typically operated at cryogenic temperatures, our goal was to explore **room-temperature fabrication consistency, impedance characteristics, and parasitic loss trends** as a foundation for low-temperature quantum measurements.
+This project focused on the **fabrication and characterization** of:
+
+- **Nb resonators and CPWs** for low-temperature, cryogenic experiments  
+- **Cu resonators and CPWs** for room-temperature impedance and S-parameter testing  
+
+The goal was to establish a **repeatable fabrication workflow** and validate **resonator performance across temperatures**.
 
 <div class="row justify-content-sm-center">
-  <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/projects/nb_pattern.jpg" title="Patterned Nb resonator under microscope" class="img-fluid rounded z-depth-1" %}
+  <div class="col-sm-7 mt-3 mt-md-0">
+    {% include figure.liquid loading="eager" path="assets/img/nb_cu_cpw_res/Nb_res.jpg" title="Nb resonator wafer for low-temperature measurement" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-6 mt-3 mt-md-0">
-    {% include figure.liquid loading="eager" path="assets/img/projects/cu_device.jpg" title="Copper resonator sample after lift-off" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid loading="eager" path="assets/img/nb_cu_cpw_res/cu_res.jpg" title="Cu resonator wafer for room-temperature measurement" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
-  Left: Lithographically defined Nb coplanar waveguide resonator (CPW).  
-  Right: Cu resonator fabricated for room-temperature impedance characterization.
+Left – Nb resonators for cryogenic testing; Right – Cu resonators for room-temperature characterization. Both has photoresist spun for dicing.
 </div>
 
 ---
 
 ## Fabrication Process
 
-The devices were fabricated using **optical lithography and thin-film deposition** at the Auburn University cleanroom:
+Devices were fabricated using **optical lithography and thin-film deposition**:
 
-- **Substrate:** High-resistivity Si and sapphire wafers  
-- **Deposition:** DC sputtering of Nb (200 nm) and Cu (150 nm) layers  
-- **Patterning:** UV lithography followed by wet etching for Nb and lift-off for Cu  
-- **Geometry:** Quarter-wave CPW resonator (50 Ω matched feedline with λ/4 open stub)  
-- **Packaging:** Wire-bonded to a custom-designed PCB for high-frequency measurements
+- **Substrates:** High-resistivity Si and sapphire wafers  
+- **Deposition:** DC sputtering of Nb (200 nm) and Cu (150 nm)  
+- **Patterning:** UV lithography, lift-off for Cu and Nb  
+- **Geometry:** Quarter-wave CPW resonators (50 Ω feedline, λ/4 open stub)  
+- **Packaging:** Wire-bonded to custom PCBs for VNA measurements  
 
 <div class="row">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/projects/mask_design.jpg" title="Mask layout in KLayout" class="img-fluid rounded z-depth-1" %}
+  <div class="col-sm mt-5 mt-md-0">
+    {% include figure.liquid path="assets/img/nb_cu_cpw_res/bump_pattern.PNG" title="CPW bump pattern" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/projects/sputter.jpg" title="DC sputtering system used for Nb/Cu deposition" class="img-fluid rounded z-depth-1" %}
+  <div class="col-sm mt-5 mt-md-0">
+    {% include figure.liquid path="assets/img/nb_cu_cpw_res/after_plating.PNG" title="Nb and Cu wafer spin-coated with resist before dicing" class="img-fluid rounded z-depth-1" %}
   </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/projects/pcb_mount.jpg" title="PCB packaging and SMA interface" class="img-fluid rounded z-depth-1" %}
+  <div class="col-sm mt-5 mt-md-0">
+    {% include figure.liquid path="assets/img/nb_cu_cpw_res/Top_3D.jpg" title="Packaged resonator with SMA connectors" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
-  (a) KLayout mask design; (b) DC sputtering chamber used for Nb/Cu deposition;  
-  (c) Packaged resonator ready for VNA measurements.
+For CPW wafers: (a) Profilometry of In bump pattern trenches; (b) Bump profile after electroplating and photoresist stripped; (c) 3D view of the electroplated indium bumps
 </div>
 
 ---
 
-## Room-Temperature Measurement
+## Measurements
 
-Measurements were performed using a **Keysight Vector Network Analyzer (VNA)** to evaluate:
+**Room-Temperature (Cu):** S-parameter and impedance characterization using a **VNA**.  
 
-- **S<sub>21</sub> transmission response**
-- **Q-factor degradation at RT**
-- **Frequency shift due to fabrication tolerances**
-- **Parasitic coupling and impedance mismatch effects**
+**Low-Temperature (Nb):** Cryogenic measurements of S<sub>21</sub> and Q-factor at 1.8 K, demonstrating high-quality resonator performance.
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/projects/vna_data.jpg" title="VNA transmission measurement" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/nb_cu_cpw_res/nb_res_output.jpg" title="Nb resonator response at 1.8 K" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">
-  Measured S<sub>21</sub> transmission spectrum of the Nb resonator at room temperature, showing resonant dip and insertion loss characteristics.
+Measured S<sub>21</sub> transmission for Nb (low-temperature) resonators, highlighting resonances below 10 GHz.
 </div>
 
 ---
 
 ## Key Outcomes
 
-- Verified **fabrication process repeatability** for Nb and Cu thin films  
-- Identified dominant **loss mechanisms** at RT (surface roughness and contact resistance)  
-- Established a baseline for **cryogenic follow-up characterization**  
-- Developed complete **CAD-to-measurement pipeline** (KLayout → cleanroom → VNA)
+- Established a **reproducible fabrication workflow** for Nb and Cu resonators  
+- Verified **resonator performance trends** across temperatures  
+- Provided a **baseline for cryogenic quantum experiments**  
+- Integrated **CAD → fabrication → measurement pipeline**
 
 ---
 
 ## Tools & Methods
 
-- **Software:** KLayout, MATLAB, and Python for post-processing  
+- **Software:** KLayout, MATLAB, Python  
 - **Equipment:** DC sputter system, mask aligner, VNA, optical profiler  
-- **Collaboration:** Supervised by [Prof. Tony T. Tang](https://eng.auburn.edu/directory/tzt0024) and conducted at the [Auburn Nanofabrication Facility](https://eng.auburn.edu/research/facilities.html)
+- **Collaboration:** Supervised by [Dr. Michael Hamilton](https://fast.auburn.edu/), conducted at [Alabama Micro/Nano Science and Technology Center](https://www.eng.auburn.edu/amstc/)
 
 ---
-
-## Gallery
-
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/projects/nb_chip.jpg" title="Completed Nb resonator chip" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/projects/probe_setup.jpg" title="RF probe station setup" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-<div class="caption">
-  Completed Nb resonator chip and RF probe measurement setup.
-</div>
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}

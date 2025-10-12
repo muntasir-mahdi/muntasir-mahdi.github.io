@@ -2,7 +2,7 @@
 layout: page
 title: PCB Design & Assembly for Sub-2 K Magnetic Measurements
 description: PCB assembly, CPW mounting, and low-temperature setup for magnetic sample characterization.
-img: assets/img/pcb_assembly_cover.jpg
+img: assets/img/PCB/PCB_Designs.JPG
 importance: 1
 category: Graduate Research
 ---
@@ -15,17 +15,17 @@ Subsequent assembly steps included **SMP port integration, CPW and resonator chi
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pcb_layout.jpg" title="PCB design layout for sub-2 K measurements" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/PCB/IP_OOP_designs.JPG" title="PCB design layout for sub-2 K measurements" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pcb_cpw_mount.jpg" title="Mounted CPW and resonator chips with conductive silver paint" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/PCB/PCB_ready_IP.jpg" title="IP PCB with mounted resonator chip with conductive silver paint" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/pcb_smp_ports.jpg" title="SMP port assembly and coaxial cable connections" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/PCB/PCB_ready_OOP.jpg" title="SMP port assembly and resonator chip wire bonded with PCB" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-PCB layout, chip mounting, and SMP port integration for high-fidelity low-temperature magnetic measurements.
+PCB layout, chip mounting, and SMP port integration for high-fidelity low-temperature (Sub-2 K) magnetic measurements.
 </div>
 
 ---
@@ -42,10 +42,10 @@ PCB layout, chip mounting, and SMP port integration for high-fidelity low-temper
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/pcb_cryostat.jpg" title="PCB installed in cryostat for low-temperature testing" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/PCB/yig_on_pcb.jpg" title="YIG sphere placed on a PCB assembly for low-temperature testing" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/pcb_coax_connections.jpg" title="Close-up of coaxial cable and SMP port connections" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/PCB/coax.jpg" title="Coaxial cable used for microwave measurements" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">

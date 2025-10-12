@@ -17,7 +17,7 @@ This project focused on the **fabrication and characterization** of:
 The goal was to establish a **repeatable fabrication workflow** and validate **resonator performance across temperatures**.
 
 <div class="row justify-content-sm-center">
-  <div class="col-sm-7 mt-3 mt-md-0">
+  <div class="col-sm-6 mt-3 mt-md-0">
     {% include figure.liquid loading="eager" path="assets/img/nb_cu_cpw_res/Nb_res.jpg" title="Nb resonator wafer for low-temperature measurement" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm-6 mt-3 mt-md-0">
@@ -48,7 +48,7 @@ Devices were fabricated using **optical lithography and thin-film deposition**:
     {% include figure.liquid path="assets/img/nb_cu_cpw_res/after_plating.PNG" title="Nb and Cu wafer spin-coated with resist before dicing" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm mt-5 mt-md-0">
-    {% include figure.liquid path="assets/img/nb_cu_cpw_res/Top_3D.jpg" title="Packaged resonator with SMA connectors" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/nb_cu_cpw_res/Top_3D.jpg" title="3d_bump" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 <div class="caption">

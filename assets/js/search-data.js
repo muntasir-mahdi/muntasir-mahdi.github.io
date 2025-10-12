@@ -416,12 +416,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-advanced-magnetic-amp-structural-characterization",
-          title: 'Advanced Magnetic &amp;amp; Structural Characterization',
-          description: "Measurement and analysis of magnetic and nanoscale properties using PPMS, VNA, AFM/MFM, XRD, and related instruments.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project%20copy%205/";
-            },},{id: "projects-project-1",
+          section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
@@ -436,24 +431,29 @@ ninja.data = [{
           description: "Analysis of CNTFET performance and parameter variation using MATLAB and NEGF simulations.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CNTFET/";
-            },},{id: "projects-nb-cu-coplanar-waveguide-with-indium-bump-electroplating",
-          title: 'Nb/Cu Coplanar Waveguide with Indium Bump Electroplating',
-          description: "Microfabrication of superconducting Nb and Cu coplanar waveguides with indium bump electroplating for flip-chip bonding and magnon–magnon coupling experiments.",
+            },},{id: "projects-indium-electroplating-for-current-controlled-magnon-photon-coupling",
+          title: 'Indium Electroplating for Current-Controlled Magnon–Photon Coupling',
+          description: "Electroplating of indium bumps on Nb and NbN coplanar waveguides and resonators for flip-chip bonded current-controlled magnon–photon coupling measurements.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/CPW/";
-            },},{id: "projects-high-vac-ion-milling-system-building",
-          title: 'High-Vac Ion Milling System Building',
-          description: "Design and construction of a high-vacuum ion milling system with 3D-printed sample holders.",
+              window.location.href = "/projects/Electroplating/";
+            },},{id: "projects-high-vacuum-ion-milling-system-setup-and-commissioning",
+          title: 'High-Vacuum Ion Milling System Setup and Commissioning',
+          description: "Complete setup, calibration, and operation of a Kaufman Ar ion milling system for precision surface processing.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Ion_Milling/";
+            },},{id: "projects-advanced-magnetic-amp-structural-characterization",
+          title: 'Advanced Magnetic &amp;amp; Structural Characterization',
+          description: "Measurement and analysis of magnetic and nanoscale properties using PPMS, VNA, AFM/MFM, XRD, and related instruments.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Magnetic_Measurements/";
             },},{id: "projects-nbn-superconducting-resonator-for-strong-magnon-photon-coupling",
           title: 'NbN Superconducting Resonator for Strong Magnon–Photon Coupling',
           description: "Fabrication and measurement of NbN superconducting resonators demonstrating strong coupling with YIG spheres.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/NbN_Resonators/";
-            },},{id: "projects-superconducting-nb-cu-resonator-fabrication-amp-measurement",
-          title: 'Superconducting Nb/Cu Resonator Fabrication &amp;amp; Measurement',
-          description: "Design, fabrication, and room-temperature measurement of superconducting Nb and Cu microwave resonators.",
+            },},{id: "projects-superconducting-nb-amp-cu-resonator-and-cpw-fabrication",
+          title: 'Superconducting Nb &amp;amp; Cu Resonator and CPW Fabrication',
+          description: "Microfabrication of superconducting Nb resonators/ CPWs for cryogenic measurements and Cu resonators/ CPWs for room-temperature testing.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Nb_Cu_Resonators/";
             },},{id: "projects-pcb-design-amp-assembly-for-sub-2-k-magnetic-measurements",

@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-teaching",
-          title: "Teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+        },{id: "nav-teaching-amp-mentoring",
+          title: "Teaching &amp; Mentoring",
+          description: "Teaching and mentoring experiences at Virginia Tech, Auburn University, and USTC.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -416,51 +416,76 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
+          section: "News",},{id: "projects-advanced-magnetic-amp-structural-characterization",
+          title: 'Advanced Magnetic &amp;amp; Structural Characterization',
+          description: "Measurement and analysis of magnetic and nanoscale properties using PPMS, VNA, AFM/MFM, XRD, and related instruments.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project%20copy%205/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-characterization-of-carbon-nanotube-field-effect-transistor-cntfet",
+          title: 'Characterization of Carbon Nanotube Field-Effect Transistor (CNTFET)',
+          description: "Analysis of CNTFET performance and parameter variation using MATLAB and NEGF simulations.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
+              window.location.href = "/projects/CNTFET/";
+            },},{id: "projects-nb-cu-coplanar-waveguide-with-indium-bump-electroplating",
+          title: 'Nb/Cu Coplanar Waveguide with Indium Bump Electroplating',
+          description: "Microfabrication of superconducting Nb and Cu coplanar waveguides with indium bump electroplating for flip-chip bonding and magnon–magnon coupling experiments.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
+              window.location.href = "/projects/CPW/";
+            },},{id: "projects-high-vac-ion-milling-system-building",
+          title: 'High-Vac Ion Milling System Building',
+          description: "Design and construction of a high-vacuum ion milling system with 3D-printed sample holders.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Ion_Milling/";
+            },},{id: "projects-nbn-superconducting-resonator-for-strong-magnon-photon-coupling",
+          title: 'NbN Superconducting Resonator for Strong Magnon–Photon Coupling',
+          description: "Fabrication and measurement of NbN superconducting resonators demonstrating strong coupling with YIG spheres.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/NbN_Resonators/";
+            },},{id: "projects-superconducting-nb-cu-resonator-fabrication-amp-measurement",
+          title: 'Superconducting Nb/Cu Resonator Fabrication &amp;amp; Measurement',
+          description: "Design, fabrication, and room-temperature measurement of superconducting Nb and Cu microwave resonators.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Nb_Cu_Resonators/";
+            },},{id: "projects-pcb-design-amp-assembly-for-sub-2-k-magnetic-measurements",
+          title: 'PCB Design &amp;amp; Assembly for Sub-2 K Magnetic Measurements',
+          description: "PCB assembly, CPW mounting, and low-temperature setup for magnetic sample characterization.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/PCB_Designs_PPMS/";
+            },},{id: "projects-python-automation-for-ppms-vna-and-transport-measurements",
+          title: 'Python Automation for PPMS–VNA and Transport Measurements',
+          description: "Python-based automation for synchronized magnetic field and frequency sweeps using PPMS, Agilent PNA 5227A, and Keithley instruments.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/PPMS_VNA_Python/";
+            },},{id: "projects-rfid-based-security-and-access-tracking-system",
+          title: 'RFID-Based Security and Access Tracking System',
+          description: "Development of an RFID-based digital access control and monitoring system for institutional security.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/RFID/";
+            },},{id: "projects-robotics-projects-sumo-fighter-maze-solver-amp-line-follower-robots",
+          title: 'Robotics Projects – Sumo, Fighter, Maze Solver &amp;amp; Line Follower Robots',
+          description: "Competitive robotics design, control, and automation systems developed for national competitions.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Robotics/";
+            },},{id: "projects-mars-rover-development",
+          title: 'Mars Rover Development',
+          description: "Design and development of an autonomous Mars Rover for international robotics challenges.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Rover/";
+            },},{id: "projects-yig-rf-amp-permalloy-dc-sputtering-and-annealing",
+          title: 'YIG RF &amp;amp; Permalloy DC Sputtering and Annealing',
+          description: "Thin-film deposition and annealing of YIG and Permalloy samples.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Sputtering/";
             },},{
         id: 'social-email',
         title: 'email',

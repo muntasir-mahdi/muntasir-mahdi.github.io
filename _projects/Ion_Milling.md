@@ -3,7 +3,7 @@ layout: page
 title: High-Vacuum Ion Milling System Setup and Commissioning
 description: Complete setup, calibration, and operation of a Kaufman Ar ion milling system for precision surface processing.
 img: assets/img/ion_milling/ion_milling_cover.png
-importance: 1
+importance: 6
 category: Graduate Research
 ---
 

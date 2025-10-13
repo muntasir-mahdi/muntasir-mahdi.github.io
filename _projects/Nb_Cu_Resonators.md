@@ -3,7 +3,7 @@ layout: page
 title: Superconducting Nb & Cu Resonator and CPW Fabrication
 description: Microfabrication of superconducting Nb resonators/ CPWs for cryogenic measurements and Cu resonators/ CPWs for room-temperature testing.
 img: assets/img/nb_cu_cpw_res/Top_3D.jpg
-importance: 4
+importance: 2
 category: Graduate Research
 ---
 

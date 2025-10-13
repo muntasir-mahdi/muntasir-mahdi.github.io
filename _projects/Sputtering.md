@@ -4,7 +4,7 @@ title: YIG RF & Permalloy DC Sputtering and Annealing
 description: Thin-film deposition and annealing of YIG and Permalloy samples.
 img: assets/img/sputtering_cover.jpg
 importance: 1
-category: Graduate Research
+category:
 ---
 
 This project focused on **thin-film deposition of magnetic materials** for RF and DC characterization.  

@@ -3,7 +3,7 @@ layout: page
 title: Advanced Magnetic & Structural Characterization
 description: Measurement and analysis of magnetic and nanoscale properties using PPMS, VNA, AFM/MFM, XRD, and related instruments.
 img: assets/img/measurement/transport_setup.jpg
-importance: 1
+importance: 4
 category: Graduate Research
 related_publications: true
 ---

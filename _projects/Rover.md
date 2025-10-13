@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Mars Rover Development
+title: Building a Mars Rover
 description: Design and development of an autonomous Mars Rover for international robotics challenges.
-img: assets/img/projects/mars_rover_bg.jpg
-importance: 4
+img: assets/img/robotics/rover_team.jpg
+importance: 1
 category: Undergraduate Projects
 ---
 
@@ -23,20 +23,39 @@ I contributed primarily to:
 - **Mechanical chassis development** for stable motion on variable slopes  
 - **Testing and debugging** for field performance and autonomous operation  
 
-<div class="row">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/projects/mars_rover_team.jpg" title="SUST Mars Rover Team during field testing" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/projects/mars_rover_chassis.jpg" title="Rover chassis and electronics assembly" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/projects/mars_rover_drive.jpg" title="Motor control and navigation electronics" class="img-fluid rounded z-depth-1" %}
+---
+
+### 🎥 Project Demonstration
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-10 mt-3 mt-md-0 text-center">
+    <iframe width="100%" height="450" src="https://www.youtube.com/embed/f0WCpjbQA1s" title="Mars Rover Project Video" frameborder="0" allowfullscreen></iframe>
   </div>
 </div>
 
 <div class="caption">
-  Left: Team field test. Middle: Rover chassis assembly. Right: Drive and control electronics under test.
+Demonstration of the SUST Mars Rover prototype in motion and obstacle negotiation.
+</div>
+
+---
+
+### 🔧 Fabrication & Team
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-8 mt-3 mt-md-0 text-center">
+    {% include figure.liquid path="assets/img/robotics/working_lab.jpg" title="Working on rover body fabrication" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-8 mt-4 mt-md-0 text-center">
+    {% include figure.liquid path="assets/img/robotics/rover_team.jpg" title="SUST Mars Rover team with completed rover" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+
+<div class="caption">
+Top: Working on the rover body using a metal grinding machine.  
+Bottom: The full SUST Mars Rover team with the completed rover before international competition.
 </div>
 
 ---
@@ -48,16 +67,6 @@ I contributed primarily to:
 - Supported by **Shahjalal University Research Center (SUSTRC)**  
 
 These experiences deepened our understanding of **multi-domain system integration** — from embedded control to mechanical stability — under real-world testing environments.
-
----
-
-### 🎥 Project Demonstration
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f0WCpjbQA1s" title="Mars Rover Project Video" frameborder="0" allowfullscreen></iframe>
-
-<div class="caption">
-  Demonstration of the SUST Mars Rover prototype in motion and obstacle negotiation.
-</div>
 
 ---
 

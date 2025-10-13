@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: A growing collection of your cool projects. There are more projects to list, I will keep adding them periodically.
 nav: true
 nav_order: 2
-display_categories: [Graduate Research, Course Projects, Undergraduate Projects]
+display_categories: [Graduate Research, Undergraduate Projects]
 horizontal: false
 ---
 

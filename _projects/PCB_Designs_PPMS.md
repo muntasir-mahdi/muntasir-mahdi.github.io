@@ -3,7 +3,7 @@ layout: page
 title: PCB Design & Assembly for Sub-2 K Magnetic Measurements
 description: PCB assembly, CPW mounting, and low-temperature setup for magnetic sample characterization.
 img: assets/img/PCB/PCB_Designs.JPG
-importance: 1
+importance: 5
 category: Graduate Research
 ---
 

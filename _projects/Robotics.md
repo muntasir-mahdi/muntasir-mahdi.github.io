@@ -2,13 +2,12 @@
 layout: page
 title: Robotics Projects – Sumo, Fighter, Maze Solver & Line Follower Robots
 description: Competitive robotics design, control, and automation systems developed for national competitions.
-img: assets/img/projects/robotics_team_bg.jpg
+img: assets/img/robotics/robofight_team.jpg
 importance: 3
 category: Undergraduate Projects
 ---
 
-A series of **competitive robotics projects** built during 2016, combining mechanical design, embedded control, and sensor-based automation.  
-These robots were developed for national and inter-university competitions across Bangladesh, showcasing rapid prototyping and real-time control strategies.
+A series of **competitive robotics projects** built during 2016, combining mechanical design, embedded control, and sensor-based automation. These robots were developed for national and inter-university competitions across Bangladesh, showcasing rapid prototyping and real-time control strategies.
 
 ---
 
@@ -35,21 +34,24 @@ These robots were developed for national and inter-university competitions acros
 ---
 
 <div class="row">
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/projects/fighter_robot.jpg" title="Fighter Robot – Champion, IUB Techfest 2016" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/projects/sumo_robot.jpg" title="Sumo Robot – 3rd Place, Technovanza 2016" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/projects/maze_line_robots.jpg" title="Maze Solver & Line Follower Robots" class="img-fluid rounded z-depth-1" %}
+  <div class="col-sm mt-4 mt-md-0 text-center">
+    {% include figure.liquid path="assets/img/projects/robofight_team.jpg" title="Champion Team – SUST Robotics" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
 <div class="caption">
-  Fighter (left), Sumo (middle), and autonomous maze/line follower (right) robots developed for national competitions.
+  Our champion team from SUST Robotics after winning national robotics competitions.
 </div>
 
+<div class="row">
+  <div class="col-sm mt-4 mt-md-0 text-center">
+    {% include figure.liquid path="assets/img/robotics/robofight_robot.jpg" title="Champion Team – SUST Robotics" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+
+<div class="caption">
+  The circuitry of our robot used for the robofight.
+</div>
 ---
 
 ### 🏆 Competition Highlights
@@ -63,6 +65,7 @@ These robots were developed for national and inter-university competitions acros
 > Participated in **10+ national robotics competitions** across Bangladesh, earning top recognitions for design, speed, and control innovation.
 
 ---
+
 ### 📰 Media Feature
 
 Our robotics journey was featured in the **Kaler Kantho National Daily** (Bangladesh), recognizing the creativity and success of the SUST Robotics Team.  
@@ -70,6 +73,7 @@ Read the full feature here:
 👉 [“টেক ফেস্ট সেরা” The Best in Tech Fest – Kaler Kantho (Nov 22, 2016)](https://www.kalerkantho.com/feature/campus/2016/11/22/432364)
 
 ---
+
 ### 🔧 Tools & Components
 
 - **Microcontrollers:** Arduino Uno / Nano  

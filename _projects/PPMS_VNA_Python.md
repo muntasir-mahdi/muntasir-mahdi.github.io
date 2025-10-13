@@ -3,7 +3,7 @@ layout: page
 title: Python Automation for PPMS–VNA and Transport Measurements
 description: Python-based automation for synchronized magnetic field and frequency sweeps using PPMS, Agilent PNA 5227A, and Keithley instruments.
 img: assets/img/python/ppms_vna_bg.jpg
-importance: 2
+importance: 4
 category: Graduate Research
 ---
 

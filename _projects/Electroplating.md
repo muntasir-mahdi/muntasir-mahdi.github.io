@@ -2,7 +2,7 @@
 layout: page
 title: Indium Electroplating for Current-Controlled Magnon–Photon Coupling
 description: Electroplating of indium bumps on Nb and NbN coplanar waveguides and resonators for flip-chip bonded current-controlled magnon–photon coupling measurements.
-img: assets/img/nbn/after_plating.jpg
+img: assets/img/NbN/after_plating.jpg
 importance: 3
 category: Graduate Research
 giscus_comments: false

@@ -2,7 +2,7 @@
 layout: page
 title: NbN Superconducting Resonator for Strong Magnon–Photon Coupling
 description: Fabrication and measurement of NbN superconducting resonators demonstrating strong coupling with YIG spheres.
-img: assets/img/nbn/nbn_s21.jpg
+img: assets/img/NbN/nbn_s21.jpg
 importance: 1
 category: Graduate Research
 giscus_comments: false
@@ -18,13 +18,13 @@ I designed **meander-type microstrip NbN resonators** (10 mm × 5 mm) optimized 
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/nbn/nbn_mask.jpg" title="NbN resonator mask design" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/NbN/nbn_mask.jpg" title="NbN resonator mask design" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/nbn/nbn_wafer.jpg" title="Fabricated NbN chip on sapphire" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/NbN/nbn_wafer.jpg" title="Fabricated NbN chip on sapphire" class="img-fluid rounded z-depth-1" %}
   </div>
   <div class="col-sm mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/nbn/nbn_pcb.jpg" title="YIG sphere mounted on resonator center line" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/NbN/nbn_pcb.jpg" title="YIG sphere mounted on resonator center line" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
@@ -39,7 +39,7 @@ I designed **meander-type microstrip NbN resonators** (10 mm × 5 mm) optimized 
 The assembly was tested in a **Quantum Design PPMS** for cryogenic and magnetic-field measurements. A **VNA (Agilent N5227A)** was used to perform **S-parameter measurements** (S₁₁, S₂₁) from 100 MHz – 30 GHz at 1.8 K. An in-plane magnetic field was applied to drive the YIG into **ferromagnetic resonance (FMR)** and observe magnon–photon hybridization.
 <div class="mt-3 mt-md-0 text-center">
   {% include figure.liquid 
-      path="assets/img/nbn/nbn_s21.jpg" 
+      path="assets/img/NbN/nbn_s21.jpg" 
       title="S-parameters of a resontor with and without the YIG sphere" 
       class="img-fluid rounded z-depth-1" 
   %}
@@ -47,7 +47,7 @@ The assembly was tested in a **Quantum Design PPMS** for cryogenic and magnetic-
 
 <div class="mt-4 mt-md-2 text-center">
   {% include figure.liquid 
-      path="assets/img/nbn/nbn_s21_Q.jpg" 
+      path="assets/img/NbN/nbn_s21_Q.jpg" 
       title="Corresponding Q-factors of a resontor with and without the YIG sphere" 
       class="img-fluid rounded z-depth-1" 
   %}

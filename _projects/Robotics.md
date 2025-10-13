@@ -45,7 +45,7 @@ A series of **competitive robotics projects** built during 2016, combining mecha
 
 <div class="row">
   <div class="col-sm mt-4 mt-md-0 text-center">
-    {% include figure.liquid path="assets/img/robotics/robofight_robot.jpg" title="Champion Team – SUST Robotics" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/robotics/robofight_robot.jpg" title="Our RoboFight Robot" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 

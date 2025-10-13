@@ -2,7 +2,7 @@
 layout: page
 title: Building a Mars Rover
 description: Design and development of an autonomous Mars Rover for international robotics challenges.
-img: assets/img/robotics/rover_team.jpg
+img: assets/img/robotics/rover_demo.gif
 importance: 1
 category: Undergraduate Projects
 ---

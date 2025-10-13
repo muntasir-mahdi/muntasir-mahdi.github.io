@@ -16,7 +16,7 @@ This project developed a **Nb and NbN coplanar waveguide (CPW)** platform with *
   <div class="col-md-10 mt-3 mt-md-0">
     {% include figure.liquid 
         loading="eager" 
-        path="assets/img/nbn/res_with_pads.jpg" 
+        path="assets/img/NbN/res_with_pads.jpg" 
         title="NbN resonator before and after Al contact pad deposition" 
         class="img-fluid rounded shadow-lg" 
     %}
@@ -36,7 +36,7 @@ Indium bumps were electroplated at predefined contact pads on Nb and NbN CPWs us
   <div class="col-md-10 mt-3 mt-md-0">
     {% include figure.liquid 
         loading="eager" 
-        path="assets/img/nbn/before_plating.jpg" 
+        path="assets/img/NbN/before_plating.jpg" 
         title="Indium electroplating setup for Nb/NbN CPW structures" 
         class="img-fluid rounded shadow-lg" 
     %}
@@ -56,7 +56,7 @@ The **electroplated indium bumps** were designed for **flip-chip bonding** with 
   <div class="col-md-12 mt-3 mt-md-0">
     {% include figure.liquid 
         loading="eager" 
-        path="assets/img/nbn/after_plating.jpg" 
+        path="assets/img/NbN/after_plating.jpg" 
         title="Electroplated indium bumps for flip-chip integration" 
         class="img-fluid rounded shadow-lg" 
     %}

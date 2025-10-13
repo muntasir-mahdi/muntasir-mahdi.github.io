@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Robotics Projects – Sumo, Fighter, Maze Solver & Line Follower Robots
-description: Competitive robotics design, control, and automation systems developed for national competitions.
+description: Competitive robotics design, control, and automation systems developed for national competitions
 img: assets/img/robotics/robofight_team.jpg
 importance: 3
 category: Undergraduate Projects

@@ -32,10 +32,10 @@ PCB layout, chip mounting, and SMP port integration for high-fidelity low-temper
 
 ### Key Steps & Techniques
 
-- **PCB Design:** Layout for current application pads and coax routing optimized for low-temperature operation.  
-- **Sample Orientation:** In-plane (IP) and out-of-plane (OOP) mounting for magnetic characterization.  
-- **Chip Assembly:** CPW and resonator chips mounted with **conductive silver paint**, followed by curing to ensure reliable electrical contact.  
-- **Connector Integration:** SMP ports and coaxial cables soldered using solder paste for robust RF connections.  
+- **PCB Design:** Layout for current application pads and coax routing optimized for low-temperature operation.
+- **Sample Orientation:** In-plane (IP) and out-of-plane (OOP) mounting for magnetic characterization.
+- **Chip Assembly:** CPW and resonator chips mounted with **conductive silver paint**, followed by curing to ensure reliable electrical contact.
+- **Connector Integration:** SMP ports and coaxial cables soldered using solder paste for robust RF connections.
 - **Sub-2 K Measurement Preparation:** Assembled boards are compatible with cryogenic measurement setups for magnetic samples.
 
 ---

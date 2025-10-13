@@ -57,14 +57,15 @@ nav_order: 4
     </li>
 
     <li>
-      <strong>Spring 2025 – Major Design Experience (MDE) Projects</strong>  
-      Faculty Advisor: <a href="https://ece.vt.edu/people/profile/hudait.html" target="_blank">Dr. Mantu K. Hudait</a>  
+      <strong>Spring 2025 – Major Design Experience (MDE) Projects</strong>
+      Faculty Advisor: <a href="https://ece.vt.edu/people/profile/hudait.html" target="_blank">Dr. Mantu K. Hudait</a>
       Served as Subject Matter Expert (SME) for senior design teams working on semiconductor research challenges:
       <ul>
         <li><em>More than Moore:</em> Guided TCAD simulations of Negative Capacitance Germanium Nanosheet FETs (NC-NSFETs) and led fabrication of Ge MOSCAPs.</li>
         <li><em>Ge/GeSn Quantum Lasers:</em> Supervised optical and electronic TCAD modeling of Ge/GeSn quantum wells and assisted in material characterization for mid-IR laser structures.</li>
       </ul>
     </li>
+
   </ul>
 </div>
 
@@ -98,10 +99,10 @@ nav_order: 4
   </ul>
 </div>
 
-
 ---
 
 ## 👨‍🏫 Lecturer – University of Science & Technology Chittagong (USTC)
+
 <div class="role">Dec 2019 – May 2021 | Department of Electrical & Electronic Engineering</div>
 
 <p>
@@ -118,14 +119,16 @@ nav_order: 4
 ---
 
 ## 🧩 Areas of Teaching & Mentoring Interest
-- Semiconductor Device Fabrication & Modeling  
-- VLSI Design and Process Integration  
-- Quantum and Cryogenic Electronics  
-- Python for Data & Measurement Automation  
-- Applied Physics and Electronic Materials  
+
+- Semiconductor Device Fabrication & Modeling
+- VLSI Design and Process Integration
+- Quantum and Cryogenic Electronics
+- Python for Data & Measurement Automation
+- Applied Physics and Electronic Materials
 
 ---
 
 ## 💡 Mentoring in Numbers
+
 Over **130 students** mentored across three universities —  
 from hands-on chip fabrication to high school data science exploration.

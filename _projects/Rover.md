@@ -18,10 +18,10 @@ Between **2015 and 2017**, our interdisciplinary team at the **Shahjalal Univers
 
 I contributed primarily to:
 
-- **Motor driving circuitry design** for precision wheel and arm control  
-- **Power distribution and sensor integration** (encoders, current sensing)  
-- **Mechanical chassis development** for stable motion on variable slopes  
-- **Testing and debugging** for field performance and autonomous operation  
+- **Motor driving circuitry design** for precision wheel and arm control
+- **Power distribution and sensor integration** (encoders, current sensing)
+- **Mechanical chassis development** for stable motion on variable slopes
+- **Testing and debugging** for field performance and autonomous operation
 
 ---
 
@@ -62,9 +62,9 @@ Bottom: The full SUST Mars Rover team with the completed rover before internatio
 
 ### 🧭 Competition & Achievements
 
-- **University Rover Challenge 2015**, Utah, USA – Qualified for **Critical Design Review (CDR)** stage  
-- **European Rover Challenge 2016**, Poland – Selected for **final competition round**  
-- Supported by **Shahjalal University Research Center (SUSTRC)**  
+- **University Rover Challenge 2015**, Utah, USA – Qualified for **Critical Design Review (CDR)** stage
+- **European Rover Challenge 2016**, Poland – Selected for **final competition round**
+- Supported by **Shahjalal University Research Center (SUSTRC)**
 
 These experiences deepened our understanding of **multi-domain system integration** — from embedded control to mechanical stability — under real-world testing environments.
 

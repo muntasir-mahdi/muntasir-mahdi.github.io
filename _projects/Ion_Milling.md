@@ -31,28 +31,28 @@ System overview: Left – Vacuum chamber before setup; Middle – CF flanges and
 
 ### ⚙️ System Specifications
 
-| Component | Specification / Model | Description |
-|------------|-----------------------|--------------|
-| **Ion Source** | Kaufman & Robinson KDC-40 | Argon ion source for material etching and surface modification |
-| **Ion Source Controller** | KRI KSC-1202 | Power supply and control of beam and discharge parameters |
-| **Turbo Pump** | Pfeiffer HiPace300 | High-speed turbomolecular pump (1000–1005 Hz normal operation) |
-| **Backing Pump** | Edwards Dry Pump | Supports turbo pump during chamber evacuation |
-| **Chamber Pressure** | ~5 × 10⁻⁵ Torr (base pressure) | Achieved using turbo + dry pump configuration |
-| **Gas Flow System** | MKS Mass Flow Controller (MFC) | Controls Ar flow rate and pressure stability |
-| **Ar Source** | High-purity Argon Cylinder | Supplies controlled Ar flow to the ion gun |
-| **Valves** | CF, GV valves (manual) | Isolation of chamber, turbo, and venting lines |
-| **Sample Holders** | Custom 3D-printed (Fusion 360) | Designed for precise sample mounting and alignment |
-| **Control & Monitoring** | KRI Beam Controller, MKS Readout | Full control over beam discharge and Ar flow |
+| Component                 | Specification / Model            | Description                                                    |
+| ------------------------- | -------------------------------- | -------------------------------------------------------------- |
+| **Ion Source**            | Kaufman & Robinson KDC-40        | Argon ion source for material etching and surface modification |
+| **Ion Source Controller** | KRI KSC-1202                     | Power supply and control of beam and discharge parameters      |
+| **Turbo Pump**            | Pfeiffer HiPace300               | High-speed turbomolecular pump (1000–1005 Hz normal operation) |
+| **Backing Pump**          | Edwards Dry Pump                 | Supports turbo pump during chamber evacuation                  |
+| **Chamber Pressure**      | ~5 × 10⁻⁵ Torr (base pressure)   | Achieved using turbo + dry pump configuration                  |
+| **Gas Flow System**       | MKS Mass Flow Controller (MFC)   | Controls Ar flow rate and pressure stability                   |
+| **Ar Source**             | High-purity Argon Cylinder       | Supplies controlled Ar flow to the ion gun                     |
+| **Valves**                | CF, GV valves (manual)           | Isolation of chamber, turbo, and venting lines                 |
+| **Sample Holders**        | Custom 3D-printed (Fusion 360)   | Designed for precise sample mounting and alignment             |
+| **Control & Monitoring**  | KRI Beam Controller, MKS Readout | Full control over beam discharge and Ar flow                   |
 
 ---
 
 ### 🧩 My Role & Achievements
 
-- **Full System Setup:** Designed, assembled, and aligned the vacuum chamber, turbo, and ion source.  
-- **Vacuum Commissioning:** Achieved stable base pressure below 5×10⁻⁵ Torr.  
-- **Ion Beam Operation:** Calibrated discharge and beam parameters for consistent etching.  
-- **Custom Sample Fixtures:** Modeled and 3D-printed holders in Fusion 360 for accurate sample positioning.  
-- **Standard Operating Procedure:** Authored a detailed SOP covering operation, safety, and maintenance (including ion filament replacement).  
+- **Full System Setup:** Designed, assembled, and aligned the vacuum chamber, turbo, and ion source.
+- **Vacuum Commissioning:** Achieved stable base pressure below 5×10⁻⁵ Torr.
+- **Ion Beam Operation:** Calibrated discharge and beam parameters for consistent etching.
+- **Custom Sample Fixtures:** Modeled and 3D-printed holders in Fusion 360 for accurate sample positioning.
+- **Standard Operating Procedure:** Authored a detailed SOP covering operation, safety, and maintenance (including ion filament replacement).
 - **Safety & Maintenance:** Implemented proper valve sequencing and pump protection to avoid overpressure damage.
 
 ---
@@ -73,14 +73,14 @@ Custom sample holders: Left – CAD model in Fusion 360; Right – installed in 
 
 ### 🧠 Learned Skills
 
-- High-vacuum system design, operation, and troubleshooting  
-- Ion beam physics and milling optimization  
-- Integration of vacuum pumps, flow control, and beam power systems  
-- 3D CAD-based mechanical design (Fusion 360)  
+- High-vacuum system design, operation, and troubleshooting
+- Ion beam physics and milling optimization
+- Integration of vacuum pumps, flow control, and beam power systems
+- 3D CAD-based mechanical design (Fusion 360)
 - Writing and implementing Standard Operating Procedures (SOPs)
 
 ---
 
-> *“Precision at the nanoscale begins with mastering the vacuum.”*  
+> _“Precision at the nanoscale begins with mastering the vacuum.”_  
 > — System commissioned and operated by **Muntasir Mahdi (April 2023)**  
 > Points of contact: Drew Sellers (jas0149@auburn.edu) · Mike Hamilton (mchamilton@auburn.edu)

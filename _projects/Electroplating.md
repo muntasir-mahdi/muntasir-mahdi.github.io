@@ -76,7 +76,7 @@ This electroplating process supports the **Nb and NbN superconducting resonator,
 
 ### Acknowledgment
 
-This research is supported by the **Air Force Office of Scientific Research (AFOSR)** under grant funding for hybrid quantum systems.  
+This research is supported by the **Air Force Office of Scientific Research (AFOSR)** under grant funding for hybrid quantum systems.
 
 <div class="text-center mt-3">
   <img src="https://bioannualreport2022.engr.ucr.edu/media/1136/download?attachment" alt="AFOSR logo" class="img-fluid" style="max-width:180px;">

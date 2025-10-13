@@ -23,18 +23,18 @@ The analysis was carried out using **MATLAB** and **Simulink**, along with **non
 
 ### Key Findings
 
-- Developed and validated an **empirical CNTFET model** for performance analysis under varying device conditions.  
-- Investigated **doping profile effects** on device output and transconductance.  
-- Demonstrated strong agreement between **empirical models** and **quantum transport simulations**.  
+- Developed and validated an **empirical CNTFET model** for performance analysis under varying device conditions.
+- Investigated **doping profile effects** on device output and transconductance.
+- Demonstrated strong agreement between **empirical models** and **quantum transport simulations**.
 - Showed that **non-uniform doping** significantly influences channel control and current modulation in nanoscale CNTFETs.
 
 ---
 
 ### Tools and Techniques
 
-- **Simulation:** MATLAB, Simulink  
-- **Theoretical Framework:** Nonequilibrium Green’s Function (NEGF)  
-- **Device Parameters:** Channel diameter, gate oxide thickness, and doping concentration  
+- **Simulation:** MATLAB, Simulink
+- **Theoretical Framework:** Nonequilibrium Green’s Function (NEGF)
+- **Device Parameters:** Channel diameter, gate oxide thickness, and doping concentration
 - **Outputs:** I–V characteristics, transconductance, subthreshold slope
 
 ---
@@ -42,12 +42,12 @@ The analysis was carried out using **MATLAB** and **Simulink**, along with **non
 ### Related Publications
 
 1. **Effect of doping profile variation on nanoscale cylindrical gate carbon nanotube field-effect transistor: a computational study using nonequilibrium Green’s function formalism**  
-   *M. Mahdi, M. A. Hossain, S. Hussain, M. Hasan, H. U. Zaman, J. K. Saha*  
-   *Semiconductor Science and Technology, 36(1), 015012 (2020)*  
+   _M. Mahdi, M. A. Hossain, S. Hussain, M. Hasan, H. U. Zaman, J. K. Saha_  
+   _Semiconductor Science and Technology, 36(1), 015012 (2020)_
 
 2. **Performance analysis of an empirical model of carbon nanotube field-effect transistor**  
-   *M. Mahdi, M. A. Hossain, J. K. Saha*  
-   *2018 International Conference on Innovation in Engineering and Technology (ICIET), 2018)*
+   _M. Mahdi, M. A. Hossain, J. K. Saha_  
+   _2018 International Conference on Innovation in Engineering and Technology (ICIET), 2018)_
 
 ---
 

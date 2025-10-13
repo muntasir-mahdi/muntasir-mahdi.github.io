@@ -19,10 +19,10 @@ This provided real-time visibility into personnel movement, enhancing accountabi
 
 My key contributions included:
 
-- **Circuit and PCB design** for RFID tag reader integration  
-- **Firmware development** for microcontroller-based access verification  
-- **Database and network interface setup** for remote data logging  
-- **Testing and calibration** for reliability under varied use conditions  
+- **Circuit and PCB design** for RFID tag reader integration
+- **Firmware development** for microcontroller-based access verification
+- **Database and network interface setup** for remote data logging
+- **Testing and calibration** for reliability under varied use conditions
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
@@ -44,9 +44,9 @@ My key contributions included:
 
 ### ⚙️ Technical Features
 
-- RFID-based **ID authentication** using unique tag serials  
-- **Microcontroller-driven control** (Atmega328p) with serial-to-Ethernet communication  
-- **Online MySQL database** for access time and user tracking  
+- RFID-based **ID authentication** using unique tag serials
+- **Microcontroller-driven control** (Atmega328p) with serial-to-Ethernet communication
+- **Online MySQL database** for access time and user tracking
 - Modular architecture allowing **expansion to multiple access points**
 
 ---

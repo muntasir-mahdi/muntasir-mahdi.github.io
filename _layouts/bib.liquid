@@ -256,8 +256,6 @@
       {% if entry.featured %}
         <a href="{{ entry.featured }}" class="btn btn-sm z-depth-0" role="button">Featured</a>
       {% endif %}
-
-      
     </div>
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}
@@ -373,7 +371,5 @@
         <div style="text-align: center;">{% include video.liquid path=entry.video class="img-fluid rounded z-depth-1" controls=true %}</div>
       </div>
     {% endif %}
-
-
   </div>
 </div>

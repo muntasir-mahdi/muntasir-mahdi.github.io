@@ -32,11 +32,7 @@
       "studyType": "Ph.D.",
       "startDate": "2024-08",
       "score": "GPA: 3.9 / 4.0",
-      "courses": [
-        "Semiconductor Devices",
-        "Quantum Systems",
-        "Photonic Integration"
-      ]
+      "courses": ["Semiconductor Devices", "Quantum Systems", "Photonic Integration"]
     },
 
     {
@@ -48,11 +44,7 @@
       "startDate": "2021-05",
       "endDate": "2024-08",
       "score": "GPA: 3.5 / 4.0",
-      "courses": [
-        "Quantum Spintronics",
-        "Superconducting Electronics",
-        "VLSI Design and Fabrication"
-      ]
+      "courses": ["Quantum Spintronics", "Superconducting Electronics", "VLSI Design and Fabrication"]
     },
 
     {
@@ -64,11 +56,7 @@
       "startDate": "2015-03",
       "endDate": "2019-04",
       "score": "GPA: 3.58 / 4.0",
-      "courses": [
-        "Analog & Digital Electronics",
-        "Control Systems",
-        "Embedded Systems and Robotics"
-      ]
+      "courses": ["Analog & Digital Electronics", "Control Systems", "Embedded Systems and Robotics"]
     }
   ],
 
@@ -111,12 +99,7 @@
       "startDate": "2019-12",
       "endDate": "2021-05",
       "summary": "Taught core electronics and control systems, supervised labs, and established the department’s first VLSI Laboratory.",
-      "highlights": [
-        "Electronics & control systems",
-        "Lab supervision & project advising",
-        "VLSI lab setup & EDA tools",
-        "Curriculum development"
-      ]
+      "highlights": ["Electronics & control systems", "Lab supervision & project advising", "VLSI lab setup & EDA tools", "Curriculum development"]
     },
 
     {
@@ -124,12 +107,7 @@
       "position": "Graduate Teaching Assistant",
       "startDate": "2024-08",
       "summary": "Supported VLSI design and semiconductor device courses, guiding student research and design projects.",
-      "highlights": [
-        "Cadence Virtuoso (NCSU-FreePDK45)",
-        "Major Design Experience mentoring",
-        "Ge/GeSn laser & FET projects",
-        "TCAD for NC-NSFETs"
-      ]
+      "highlights": ["Cadence Virtuoso (NCSU-FreePDK45)", "Major Design Experience mentoring", "Ge/GeSn laser & FET projects", "TCAD for NC-NSFETs"]
     },
 
     {
@@ -138,11 +116,7 @@
       "startDate": "2025-05",
       "endDate": "2025-08",
       "summary": "Mentored high school students in computing and data science as part of Virginia Tech’s outreach initiative.",
-      "highlights": [
-        "Raspberry Pi cluster setup",
-        "Python & data analysis mentoring",
-        "Distributed computing concepts"
-      ]
+      "highlights": ["Raspberry Pi cluster setup", "Python & data analysis mentoring", "Distributed computing concepts"]
     },
 
     {
@@ -151,11 +125,7 @@
       "startDate": "2024-01",
       "endDate": "2024-05",
       "summary": "Assisted in teaching Fundamentals of Electrical Engineering (ELEC 3810) for 75 students.",
-      "highlights": [
-        "Grading & exam preparation",
-        "Problem-solving sessions",
-        "Student academic support"
-      ]
+      "highlights": ["Grading & exam preparation", "Problem-solving sessions", "Student academic support"]
     },
 
     {
@@ -173,8 +143,6 @@
       ]
     }
   ],
-
-
 
   "awards": [
     {
@@ -437,15 +405,7 @@
       "name": "Characterization & Instrumentation",
       "level": "Expert",
       "icon": "fa-solid fa-vials",
-      "keywords": [
-        "PPMS",
-        "XRD",
-        "AFM",
-        "MFM",
-        "VNA",
-        "Spectroscopic Ellipsometry",
-        "Cryogenic Measurements"
-      ]
+      "keywords": ["PPMS", "XRD", "AFM", "MFM", "VNA", "Spectroscopic Ellipsometry", "Cryogenic Measurements"]
     },
     {
       "name": "Computational & Programming",
@@ -486,13 +446,7 @@
       "name": "Embedded Systems & Hardware Integration",
       "level": "Advanced",
       "icon": "fa-solid fa-microchip",
-      "keywords": [
-        "Microcontrollers (ATmega328P)",
-        "Raspberry Pi",
-        "Embedded Systems Design",
-        "Sensor Interfacing",
-        "Robotics Applications"
-      ]
+      "keywords": ["Microcontrollers (ATmega328P)", "Raspberry Pi", "Embedded Systems Design", "Sensor Interfacing", "Robotics Applications"]
     },
     {
       "name": "Research & Project Management",
@@ -545,16 +499,9 @@
     {
       "name": "Personal Interests",
       "icon": "fa-solid fa-heart",
-      "keywords": [
-        "Robotics Competitions",
-        "Science Outreach",
-        "Data Science Projects",
-        "AI & Machine Learning",
-        "Astronomy & Space Technology"
-      ]
+      "keywords": ["Robotics Competitions", "Science Outreach", "Data Science Projects", "AI & Machine Learning", "Astronomy & Space Technology"]
     }
   ],
-
 
   "references": [
     {
@@ -594,5 +541,4 @@
       "url": "https://muntasir-mahdi.github.io/projects#robotics-uav"
     }
   ]
-
 }

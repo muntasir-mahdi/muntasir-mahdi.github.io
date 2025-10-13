@@ -11,8 +11,8 @@ category: Graduate Research
 
 This project focused on the **fabrication and characterization** of:
 
-- **Nb resonators and CPWs** for low-temperature, cryogenic experiments  
-- **Cu resonators and CPWs** for room-temperature impedance and S-parameter testing  
+- **Nb resonators and CPWs** for low-temperature, cryogenic experiments
+- **Cu resonators and CPWs** for room-temperature impedance and S-parameter testing
 
 A key component of this work involved developing **indium (In) bump structures** on coplanar waveguide (CPW) chips.  
 These bumps serve as **spin pumping and magnetic control interfaces**, enabling **current-controlled magnon–magnon and magnon–photon coupling** in hybrid quantum systems. The overall goal was to establish a **repeatable fabrication workflow** and validate **resonator performance across temperatures**.
@@ -36,11 +36,11 @@ Left – Nb resonators for cryogenic testing; Right – Cu resonators for room-t
 Devices were fabricated using **optical lithography and thin-film deposition**:
 
 - **Substrates:** High-resistivity double sided polished Si wafers
-- **Deposition:** DC sputtering of Nb (200 nm) and Cu (150 nm)  
-- **Patterning:** UV lithography, lift-off for Cu and Nb  
-- **Geometry:** Quarter-wave CPW resonators (50 Ω feedline, λ/4 open stub)  
-- **Indium Bumps:** Electroplated onto patterned trenches to create **low-resistance current injection contacts** for tunable coupling experiments  
-- **Packaging:** Wire-bonded to custom PCBs for VNA measurements  
+- **Deposition:** DC sputtering of Nb (200 nm) and Cu (150 nm)
+- **Patterning:** UV lithography, lift-off for Cu and Nb
+- **Geometry:** Quarter-wave CPW resonators (50 Ω feedline, λ/4 open stub)
+- **Indium Bumps:** Electroplated onto patterned trenches to create **low-resistance current injection contacts** for tunable coupling experiments
+- **Packaging:** Wire-bonded to custom PCBs for VNA measurements
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-8 mt-4 mt-md-0 text-center">
@@ -68,7 +68,7 @@ For CPW wafers: (Top) Profilometry of In bump pattern trenches; (Middle) Electro
 
 ## Measurements
 
-**Room-Temperature (Cu):** S-parameter and impedance characterization using a **VNA**.  
+**Room-Temperature (Cu):** S-parameter and impedance characterization using a **VNA**.
 
 **Low-Temperature (Nb):** Cryogenic measurements of S<sub>21</sub> and Q-factor at 1.8 K, demonstrating high-quality resonator performance and compatibility with hybrid magnonic architectures.
 
@@ -85,18 +85,18 @@ Measured S<sub>21</sub> transmission for Nb (low-temperature) resonators, highli
 
 ## Key Outcomes
 
-- Established a **reproducible fabrication workflow** for Nb and Cu resonators  
-- Developed **indium bump integration** for current-driven magnon–magnon and magnon–photon coupling  
-- Verified **resonator performance trends** across temperatures  
-- Provided a **baseline for cryogenic hybrid quantum experiments**  
+- Established a **reproducible fabrication workflow** for Nb and Cu resonators
+- Developed **indium bump integration** for current-driven magnon–magnon and magnon–photon coupling
+- Verified **resonator performance trends** across temperatures
+- Provided a **baseline for cryogenic hybrid quantum experiments**
 - Integrated **CAD → fabrication → measurement pipeline**
 
 ---
 
 ## Tools & Methods
 
-- **Software:** Keysight ADS, KLayout, MATLAB, Python  
-- **Equipment:** DC sputter system, mask aligner, VNA, optical profiler, electroplating setup  
+- **Software:** Keysight ADS, KLayout, MATLAB, Python
+- **Equipment:** DC sputter system, mask aligner, VNA, optical profiler, electroplating setup
 - **Collaboration:** Supervised by [Dr. Michael Hamilton](https://fast.auburn.edu/), conducted at [Alabama Micro/Nano Science and Technology Center](https://www.eng.auburn.edu/amstc/)
 
 ---

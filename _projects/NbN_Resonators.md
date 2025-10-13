@@ -14,7 +14,7 @@ Superconducting resonators enable strong interactions between microwave photons 
 
 ### Design and Fabrication
 
-I designed **meander-type microstrip NbN resonators** (10 mm × 5 mm) optimized for magnetic-field-dependent coupling experiments. The devices were fabricated on **intrinsic Si substrates** (525 µm thick) with **250 nm NbN** traces deposited by **DC reactive sputtering**.  **Al contact pads** were added for microwave wirebonding, and a **NbN backside ground plane** completed the structure.
+I designed **meander-type microstrip NbN resonators** (10 mm × 5 mm) optimized for magnetic-field-dependent coupling experiments. The devices were fabricated on **intrinsic Si substrates** (525 µm thick) with **250 nm NbN** traces deposited by **DC reactive sputtering**. **Al contact pads** were added for microwave wirebonding, and a **NbN backside ground plane** completed the structure.
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
@@ -37,6 +37,7 @@ I designed **meander-type microstrip NbN resonators** (10 mm × 5 mm) optimized 
 ### Measurement and Characterization
 
 The assembly was tested in a **Quantum Design PPMS** for cryogenic and magnetic-field measurements. A **VNA (Agilent N5227A)** was used to perform **S-parameter measurements** (S₁₁, S₂₁) from 100 MHz – 30 GHz at 1.8 K. An in-plane magnetic field was applied to drive the YIG into **ferromagnetic resonance (FMR)** and observe magnon–photon hybridization.
+
 <div class="mt-3 mt-md-0 text-center">
   {% include figure.liquid 
       path="assets/img/NbN/nbn_s21.jpg" 
@@ -71,7 +72,7 @@ These results establish a scalable pathway toward **hybrid quantum magnonic devi
 
 ### Acknowledgment
 
-This research is supported by the **Air Force Office of Scientific Research (AFOSR)** under grant funding for hybrid quantum systems.  
+This research is supported by the **Air Force Office of Scientific Research (AFOSR)** under grant funding for hybrid quantum systems.
 
 <div class="text-center mt-3">
   <img src="https://bioannualreport2022.engr.ucr.edu/media/1136/download?attachment" alt="AFOSR logo" class="img-fluid" style="max-width:180px;">

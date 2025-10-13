@@ -39,6 +39,7 @@ latest_posts:
   
   
 ---
+
 <style>
   .edu-entry, .exp-entry {
     display: flex;
@@ -85,15 +86,14 @@ latest_posts:
   <strong><em>"Precision in the nanoscale defines performance at the macroscale."</em></strong>
 </blockquote>
 
-
 I am a **Ph.D. student in Electrical and Computer Engineering at [Virginia Tech](https://ece.vt.edu/)**, focusing on **semiconductor devices, fabrication, and circuit–device co-design**. My work bridges **materials and device physics** with **integrated circuit and photonic applications**. Before joining Virginia Tech, I completed my **M.S. at [Auburn University](https://www.auburn.edu/)** and **B.S. at [Shahjalal University of Science and Technology (SUST)](https://www.sust.edu/)**, Bangladesh.
 
 ## 🧪 Research Overview
 
-- **Semiconductor Devices & Materials:** Epitaxial Ge, CMOS-compatible processes, defect engineering  
-- **Superconducting Systems:** Nb/NbN resonators, Josephson junctions, cryogenic packaging  
-- **Device–Circuit Co-Design:** Modeling fabrication–performance linkage, parameter extraction  
-- **Tools:** TCAD Sentaurus, ADS, Virtuoso, Python automation, AFM, VNA, XRD, PPMS, Ellipsometry  
+- **Semiconductor Devices & Materials:** Epitaxial Ge, CMOS-compatible processes, defect engineering
+- **Superconducting Systems:** Nb/NbN resonators, Josephson junctions, cryogenic packaging
+- **Device–Circuit Co-Design:** Modeling fabrication–performance linkage, parameter extraction
+- **Tools:** TCAD Sentaurus, ADS, Virtuoso, Python automation, AFM, VNA, XRD, PPMS, Ellipsometry
 
 <div style="margin-top:8px;"></div>
 

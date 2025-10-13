@@ -8,12 +8,12 @@ category: Graduate Research
 related_publications: true
 ---
 
-This project involved **comprehensive characterization of magnetic and structural properties** of materials using a variety of techniques:  
+This project involved **comprehensive characterization of magnetic and structural properties** of materials using a variety of techniques:
 
-- **PPMS Measurements:** Magnetic (VSM), ferromagnetic resonance (FMR), electrical transport (ETO), and current-dependent measurements using Keithley 6221 and NV 2182.  
-- **RF & VNA Measurements:** Frequency vs. magnetic field S21 characterization using Vector Network Analyzer (VNA).  
-- **Lock-In Amplifier & RF Generator:** Signal detection and excitation for magnetic and transport experiments.  
-- **Structural & Surface Analysis:** X-Ray Diffraction (XRD) for crystal structure, Atomic & Magnetic Force Microscopy (AFM/MFM) for topography and magnetic domain imaging.  
+- **PPMS Measurements:** Magnetic (VSM), ferromagnetic resonance (FMR), electrical transport (ETO), and current-dependent measurements using Keithley 6221 and NV 2182.
+- **RF & VNA Measurements:** Frequency vs. magnetic field S21 characterization using Vector Network Analyzer (VNA).
+- **Lock-In Amplifier & RF Generator:** Signal detection and excitation for magnetic and transport experiments.
+- **Structural & Surface Analysis:** X-Ray Diffraction (XRD) for crystal structure, Atomic & Magnetic Force Microscopy (AFM/MFM) for topography and magnetic domain imaging.
 
 ---
 
@@ -32,8 +32,6 @@ This project involved **comprehensive characterization of magnetic and structura
   Reprinted with permission from M. Mahdi et al., 
   <em>IEEE Trans. Appl. Supercond.</em>, vol. 35, no. 5, Aug 2025. © IEEE.
 </div>
-
-
 
 ---
 

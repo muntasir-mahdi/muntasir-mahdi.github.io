@@ -31,10 +31,10 @@ Thin-film deposition workflow: Left – YIG RF sputtering; Middle – Permalloy 
 
 ### Key Steps & Techniques
 
-- **YIG RF Sputtering:** Deposition of high-quality YIG thin films for magnonic and spintronic studies.  
-- **Permalloy DC Sputtering:** Uniform deposition of Permalloy films for magnetic characterization.  
-- **Annealing:** Thermal processing of YIG films in an oven to enhance crystalline and magnetic properties.  
-- **Chamber Control:** Precise sputtering parameters (pressure, power, substrate rotation) to ensure reproducibility.  
+- **YIG RF Sputtering:** Deposition of high-quality YIG thin films for magnonic and spintronic studies.
+- **Permalloy DC Sputtering:** Uniform deposition of Permalloy films for magnetic characterization.
+- **Annealing:** Thermal processing of YIG films in an oven to enhance crystalline and magnetic properties.
+- **Chamber Control:** Precise sputtering parameters (pressure, power, substrate rotation) to ensure reproducibility.
 
 ---
 

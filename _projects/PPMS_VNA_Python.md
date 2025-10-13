@@ -13,28 +13,29 @@ Developed a **Python-based automation suite** for synchronized magnetic-field an
 The software automates **FMR (Ferromagnetic Resonance)**, **Electrical Transport Option (ETO)**, and **frequency-vs-field S<sub>21</sub>** measurements, replacing expensive commercial packages and saving over **$4,000**.
 
 This modular solution addresses limitations in commercial PPMS–VNA tools by enabling:
-- Automated frequency and magnetic field sweeps  
-- Real-time acquisition, averaging, and data saving  
-- Precise inter-instrument synchronization  
+
+- Automated frequency and magnetic field sweeps
+- Real-time acquisition, averaging, and data saving
+- Precise inter-instrument synchronization
 - Live plotting and post-measurement data parsing
 
 ### 🧩 Technical Implementation
 
-- **Language:** Python (v3.11)  
-- **Communication Protocols:**  
-  - GPIB and VISA (via `pyvisa`)  
-  - Quantum Design API for PPMS control  
-- **Supported Instruments:**  
-  - Agilent PNA 5227A (S<sub>21</sub> scattering measurements)  
-  - Keithley 6221 (current source) and 2182A (nanovoltmeter)  
-  - PPMS DynaCool (field, temperature, and ETO integration)  
-- **Core Libraries:** `numpy`, `matplotlib`, `pandas`, `pyvisa`, `scipy`  
-- **Features:**  
-  - Frequency sweep automation with synchronized field ramping  
-  - Temperature-stabilized measurement loops  
-  - Multi-scan averaging and noise filtering  
-  - CSV output for post-processing and plotting  
-  - Modular GUI-free design for remote execution  
+- **Language:** Python (v3.11)
+- **Communication Protocols:**
+  - GPIB and VISA (via `pyvisa`)
+  - Quantum Design API for PPMS control
+- **Supported Instruments:**
+  - Agilent PNA 5227A (S<sub>21</sub> scattering measurements)
+  - Keithley 6221 (current source) and 2182A (nanovoltmeter)
+  - PPMS DynaCool (field, temperature, and ETO integration)
+- **Core Libraries:** `numpy`, `matplotlib`, `pandas`, `pyvisa`, `scipy`
+- **Features:**
+  - Frequency sweep automation with synchronized field ramping
+  - Temperature-stabilized measurement loops
+  - Multi-scan averaging and noise filtering
+  - CSV output for post-processing and plotting
+  - Modular GUI-free design for remote execution
 
 ---
 
@@ -71,7 +72,7 @@ This modular solution addresses limitations in commercial PPMS–VNA tools by en
 
 Full source code and example datasets are available on GitHub:
 
-- 🧩 [PPMS–VNA Automation](https://github.com/muntasir-mahdi/PPMS-PyPNA.git)  
+- 🧩 [PPMS–VNA Automation](https://github.com/muntasir-mahdi/PPMS-PyPNA.git)
 - 🔌 [PPMS–Keithley Transport Automation](https://github.com/muntasir-mahdi/Keithley-PPMS-Integration.git)
 
 > Both repositories include instrument command templates, VISA initialization examples, and sample measurement logs for direct use in PPMS labs.

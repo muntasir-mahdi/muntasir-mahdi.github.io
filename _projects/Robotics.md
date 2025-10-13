@@ -13,10 +13,10 @@ A series of **competitive robotics projects** built during 2016, combining mecha
 
 ### ⚙️ Project Overview
 
-- **Fighter Robot** – *Champion*, Techfest 2016, Independent University, Bangladesh  
+- **Fighter Robot** – _Champion_, Techfest 2016, Independent University, Bangladesh  
   Designed a robust wheeled combat robot with torque-optimized DC motors and custom blade actuation, winning first place among national participants.
 
-- **Sumo Robot** – *3rd Place*, Technovanza 2016 (IEEE NSU Student Branch)  
+- **Sumo Robot** – _3rd Place_, Technovanza 2016 (IEEE NSU Student Branch)  
   Built a fully autonomous sumo robot with real-time sensor feedback and weight-balanced chassis control.
 
 - **Maze Solver & Line Follower Robots** –  
@@ -26,16 +26,16 @@ A series of **competitive robotics projects** built during 2016, combining mecha
 
 ### 🧩 Technical Highlights
 
-- **Control System:** Arduino-based motion control with ultrasonic, IR, and reflectance sensors  
-- **Chassis Design:** Lightweight acrylic and aluminum hybrid structure for speed and torque balance  
-- **Algorithms:** Real-time obstacle detection, PID tuning, and shortest-path maze solving  
-- **Power System:** High-discharge Li-Po batteries for sustained competitive performance  
+- **Control System:** Arduino-based motion control with ultrasonic, IR, and reflectance sensors
+- **Chassis Design:** Lightweight acrylic and aluminum hybrid structure for speed and torque balance
+- **Algorithms:** Real-time obstacle detection, PID tuning, and shortest-path maze solving
+- **Power System:** High-discharge Li-Po batteries for sustained competitive performance
 
 ---
 
 <div class="row">
   <div class="col-sm mt-4 mt-md-0 text-center">
-    {% include figure.liquid path="assets/img/projects/robofight_team.jpg" title="Champion Team – SUST Robotics" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/robotics/robofight_team.jpg" title="Champion Team – SUST Robotics" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
@@ -56,10 +56,10 @@ A series of **competitive robotics projects** built during 2016, combining mecha
 
 ### 🏆 Competition Highlights
 
-| Year | Competition | Event | Achievement |
-|------|--------------|--------|-------------|
-| 2016 | **Techfest**, Independent University Bangladesh | Fighter Robot | 🥇 Champion |
-| 2016 | **Technovanza**, IEEE NSU Student Branch | Sumo Robot | 🥉 2nd Runner-Up |
+| Year | Competition                                      | Event                      | Achievement         |
+| ---- | ------------------------------------------------ | -------------------------- | ------------------- |
+| 2016 | **Techfest**, Independent University Bangladesh  | Fighter Robot              | 🥇 Champion         |
+| 2016 | **Technovanza**, IEEE NSU Student Branch         | Sumo Robot                 | 🥉 2nd Runner-Up    |
 | 2016 | Various university workshops & internal contests | Maze Solver, Line Follower | Finalist/Exhibition |
 
 > Participated in **10+ national robotics competitions** across Bangladesh, earning top recognitions for design, speed, and control innovation.
@@ -76,11 +76,11 @@ Read the full feature here:
 
 ### 🔧 Tools & Components
 
-- **Microcontrollers:** Arduino Uno / Nano  
-- **Actuators:** High-torque DC and servo motors  
-- **Sensors:** Ultrasonic, IR, LDR, and encoder modules  
-- **Design Tools:** SolidWorks, Proteus, EagleCAD  
-- **Programming:** C/C++, embedded control logic  
+- **Microcontrollers:** Arduino Uno / Nano
+- **Actuators:** High-torque DC and servo motors
+- **Sensors:** Ultrasonic, IR, LDR, and encoder modules
+- **Design Tools:** SolidWorks, Proteus, EagleCAD
+- **Programming:** C/C++, embedded control logic
 
 ---
 

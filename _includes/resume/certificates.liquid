@@ -13,7 +13,7 @@
         <span class="cert-issuer">{{ content.issuer }}</span>
         &nbsp;—&nbsp;
         <span class="cert-date">
-          {%- assign formatted = content.date | date: "%b %Y" -%}
+          {%- assign formatted = content.date | date: '%b %Y' -%}
           {%- if formatted == content.date -%}
             {{ content.date }}
           {%- else -%}

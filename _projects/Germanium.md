@@ -15,7 +15,8 @@ The studies reveal how **strain, defects, and alloy composition** modulate the d
 
 ---
 
-## 1️⃣ Optical Constants and Critical-Point Transitions in Biaxially Tensile-Strained Ge  
+## 1️⃣ Optical Constants and Critical-Point Transitions in Biaxially Tensile-Strained Ge
+
 **_Phys. Rev. Applied 23, 024037 (2025)_**  
 [DOI: 10.1103/PhysRevApplied.23.024037](https://doi.org/10.1103/PhysRevApplied.23.024037)
 
@@ -32,17 +33,18 @@ Strain-induced shifts in **E₁ and E₂** transitions were extracted via **seco
   © American Physical Society, License RNP/25/OCT/097415.
 </div>
 
-**Key Results:**  
-- Extracted full **(n, k)** and **(ε₁, ε₂)** spectra for strained Ge.  
-- Observed **redshifts** in E₁/E₂ transitions consistent with deformation potential theory.  
-- Developed a **multi-layer optical model** including surface and oxide effects.  
+**Key Results:**
+
+- Extracted full **(n, k)** and **(ε₁, ε₂)** spectra for strained Ge.
+- Observed **redshifts** in E₁/E₂ transitions consistent with deformation potential theory.
+- Developed a **multi-layer optical model** including surface and oxide effects.
 - Established **strain–band-structure correlation** for Si-compatible photonics.
 
 ---
 
 ## Methods
 
-- **Spectroscopic Ellipsometry** (0.4–4.5 eV)  
+- **Spectroscopic Ellipsometry** (0.4–4.5 eV)
 - **Critical-Point Line-Shape Analysis**
 
 ---
@@ -50,6 +52,6 @@ Strain-induced shifts in **E₁ and E₂** transitions were extracted via **seco
 ## Related Publications
 
 1. **Optical constants and critical-point transitions in biaxially tensile-strained epitaxial thin films of germanium**  
-   *Rutwik Joshi, Nina Hong, Neha Singh, Muntasir Mahdi, and Mantu K. Hudait*
-   *Phys. Rev. Applied* **23**, 024037 (2025)  
+   _Rutwik Joshi, Nina Hong, Neha Singh, Muntasir Mahdi, and Mantu K. Hudait_
+   _Phys. Rev. Applied_ **23**, 024037 (2025)  
    DOI: [10.1103/PhysRevApplied.23.024037](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.23.024037)

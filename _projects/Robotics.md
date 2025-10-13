@@ -2,7 +2,7 @@
 layout: page
 title: Robotics Projects – Sumo, Fighter, Maze Solver & Line Follower Robots
 description: Competitive robotics design, control, and automation systems developed for national competitions
-img: assets/img/robotics/robofight_team.jpg
+img: assets/img/robotics/taura_safa_team.jpg
 importance: 3
 category: Undergraduate Projects
 ---
@@ -35,7 +35,7 @@ A series of **competitive robotics projects** built during 2016, combining mecha
 
 <div class="row">
   <div class="col-sm mt-4 mt-md-0 text-center">
-    {% include figure.liquid path="assets/img/robotics/robofight_team.jpg" title="Champion Team – SUST Robotics" class="img-fluid rounded z-depth-1" %}
+    {% include figure.liquid path="assets/img/robotics/taura_safa_team.jpg" title="Champion Team – SUST Robotics" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 

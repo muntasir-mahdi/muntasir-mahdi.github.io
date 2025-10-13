@@ -451,7 +451,7 @@ ninja.data = [{
               window.location.href = "/projects/RFID/";
             },},{id: "projects-robotics-projects-sumo-fighter-maze-solver-amp-line-follower-robots",
           title: 'Robotics Projects – Sumo, Fighter, Maze Solver &amp;amp; Line Follower Robots',
-          description: "Competitive robotics design, control, and automation systems developed for national competitions.",
+          description: "Competitive robotics design, control, and automation systems developed for national competitions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Robotics/";
             },},{id: "projects-building-a-mars-rover",

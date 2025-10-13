@@ -40,7 +40,7 @@ A series of **competitive robotics projects** built during 2016, combining mecha
 </div>
 
 <div class="caption">
-  Our champion team from SUST Robotics after winning national robotics competitions.
+  Our champion team from SUST Robotics after winning national robofight competitions, TechFest 2016.
 </div>
 
 <div class="row">

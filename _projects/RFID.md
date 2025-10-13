@@ -4,7 +4,7 @@ title: RFID-Based Security and Access Tracking System
 description: Development of an RFID-based digital access control and monitoring system for institutional security.
 img: assets/img/projects/rfid_access_bg.jpg
 importance: 3
-category: Projects
+category:
 ---
 
 This project focused on developing an **RFID-enabled security and access tracking system** to improve laboratory and building safety within the university environment.  

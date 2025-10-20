@@ -1,5 +1,5 @@
 {% assign projects = data[1] %}
-{% assign categories = projects | map: "category" | uniq | sort %}
+{% assign categories = projects | map: 'category' | uniq | sort %}
 
 {% for cat in categories %}
   {% if cat %}
@@ -8,7 +8,7 @@
 
   <ul class="card-text font-weight-light list-group list-group-flush">
     {% for content in data[1] %}
-      {% if content.category == cat %}  
+      {% if content.category == cat %}
         <li class="list-group-item">
           <div class="row">
             <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">

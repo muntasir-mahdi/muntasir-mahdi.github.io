@@ -9,7 +9,8 @@ giscus_comments: false
 ---
 
 Superconducting resonators enable strong interactions between microwave photons and magnons, forming a key platform for hybrid quantum systems. This project demonstrates:
-- **NbN microstrip resonators** integrated with **yttrium iron garnet (YIG)** spheres to realize **strong magnon–photon coupling** at cryogenic temperatures. 
+
+- **NbN microstrip resonators** integrated with **yttrium iron garnet (YIG)** spheres to realize **strong magnon–photon coupling** at cryogenic temperatures.
 - The DC lines and Indium bumps were aimed for current-controlled magnon–photon coupling.
 - Details of the electroplating are described on <a href="/projects/Nb_Cu_Resonators/">CPW Fabrication</a> and <a href="/projects/electroplating/">Electroplating Indium</a>.
 
@@ -17,8 +18,8 @@ Superconducting resonators enable strong interactions between microwave photons 
 
 ### Design and Fabrication
 
-1. I designed **meander-type microstrip NbN resonators** (10 mm × 5 mm) optimized for magnetic-field-dependent coupling experiments. 
-2. I have fabricated the devices on **intrinsic Si substrates** (525 µm thick) with **250 nm NbN** traces deposited by **DC reactive sputtering**. 
+1. I designed **meander-type microstrip NbN resonators** (10 mm × 5 mm) optimized for magnetic-field-dependent coupling experiments.
+2. I have fabricated the devices on **intrinsic Si substrates** (525 µm thick) with **250 nm NbN** traces deposited by **DC reactive sputtering**.
 3. **Al contact pads** were added for microwave wirebonding, and a **NbN backside ground plane** completed the structure.
 
 <div class="row">
@@ -41,8 +42,8 @@ Superconducting resonators enable strong interactions between microwave photons 
 
 ### Measurement and Characterization
 
-- The assembly was tested in a **Quantum Design PPMS** for cryogenic and magnetic-field measurements. 
-- A **VNA (Agilent N5227A)** was used to perform **S-parameter measurements** (S₁₁, S₂₁) from 100 MHz – 30 GHz at 1.8 K. 
+- The assembly was tested in a **Quantum Design PPMS** for cryogenic and magnetic-field measurements.
+- A **VNA (Agilent N5227A)** was used to perform **S-parameter measurements** (S₁₁, S₂₁) from 100 MHz – 30 GHz at 1.8 K.
 - An in-plane and out-of-plane magnetic field was applied to drive the YIG into **ferromagnetic resonance (FMR)** and observe magnon–photon hybridization.
 
 <div class="mt-3 mt-md-0 text-center">

@@ -7,7 +7,8 @@ importance: 5
 category: Graduate Research
 ---
 
-I have **designed and assembled PCBs** for low-temperature (<2 K) magnetic measurements.  
+I have **designed and assembled PCBs** for low-temperature (<2 K) magnetic measurements.
+
 - Careful orientation of **in-plane (IP) and out-of-plane (OOP) samples**, coaxial cable routing, and current pad layout for high-precision experiments.
 - Creating SMP port and pin footprints
 - 4-layer design for DC lines connections using pads, via and pins
@@ -30,6 +31,7 @@ PCB layout, chip mounting, and SMP port integration for high-fidelity low-temper
 ---
 
 ### Key Steps & Techniques
+
 <p align="left">
    <img src="{{ '/assets/img/PCB/altium_logo.jpg' | relative_url }}" alt="Altium" height="80" style="margin-right:10px;">
 </p>

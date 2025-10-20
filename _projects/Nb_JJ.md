@@ -9,7 +9,8 @@ related_publications: false
 ---
 
 The **Nb Josephson Junction (JJ)** devices were fabricated using:
-- A multilayer stack structure of **Al pad / Nb / AlO<sub>x</sub> / Nb / SiO<sub>2</sub> / Si substrate**.  
+
+- A multilayer stack structure of **Al pad / Nb / AlO<sub>x</sub> / Nb / SiO<sub>2</sub> / Si substrate**.
 - The process involved thin-film deposition, oxidation, E-beam lithography and photolithography steps.
 
 ---

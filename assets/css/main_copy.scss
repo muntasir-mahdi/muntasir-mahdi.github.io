@@ -12,10 +12,10 @@ $max-content-width: 1200px;
 //  $fa-css-prefix: "fa",
 //  $fa-font-path: "../webfonts"
 //);
-@use 'font-awesome/fontawesome';
-@use 'font-awesome/brands';
-@use 'font-awesome/solid';
-@use 'font-awesome/regular';
+@use "font-awesome/fontawesome";
+@use "font-awesome/brands";
+@use "font-awesome/solid";
+@use "font-awesome/regular";
 
 // Other modules
 @use "variables";

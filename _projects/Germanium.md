@@ -10,7 +10,8 @@ related_publications: false
 
 ## Overview
 
-This research examines the 
+This research examines the
+
 - **optical and electronic behavior of epitaxial Ge and GeSn thin films** for **photonics and quantum devices**, using **spectroscopic ellipsometry**, and **critical-point (CP) analysis**.
 - How **strain, defects, buffer layer thickness, and substrate orientation** modulate the dielectric response and band-structure transitions.
 
@@ -21,7 +22,7 @@ This research examines the
 **_Phys. Rev. Applied 23, 024037 (2025)_**  
 [DOI: 10.1103/PhysRevApplied.23.024037](https://doi.org/10.1103/PhysRevApplied.23.024037)
 
-- Comprehensive ellipsometry modeling of **biaxially strained epitaxial Ge films** grown by molecular beam epitaxay (MBE). 
+- Comprehensive ellipsometry modeling of **biaxially strained epitaxial Ge films** grown by molecular beam epitaxay (MBE).
 - Strain-induced shifts in **Critical Point** transitions were extracted via **second-derivative CP analysis**, linking strain and film thickness to dielectric evolution.
 
 <div class="row justify-content-sm-center">

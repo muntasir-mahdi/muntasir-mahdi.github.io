@@ -9,12 +9,14 @@ category: Graduate Research
 
 ### ⚙️ Project Overview & Motivation
 
-I have developed a **Python automation suite** for synchronized magnetic-field, temperature and frequency-dependent measurements using: 
-- **Quantum Design PPMS**, 
-- **Agilent PNA 5227A**, and 
+I have developed a **Python automation suite** for synchronized magnetic-field, temperature and frequency-dependent measurements using:
+
+- **Quantum Design PPMS**,
+- **Agilent PNA 5227A**, and
 - **Keithley 6221/2182A** instruments.
 
-### 🧪 The software automates: 
+### 🧪 The software automates:
+
 1. **FMR (Ferromagnetic Resonance)**: frequency–field mapping to extract resonance fields, linewidths, and effective damping.
 2. **Electrical Transport Option (ETO)**: Temperature- and field-dependent Hall, and magnetoresistance data collection.
 3. **Frequency-vs-field S<sub>21</sub>** measurements: microwave measurements by synchronizing with VNA
@@ -22,6 +24,7 @@ I have developed a **Python automation suite** for synchronized magnetic-field, 
 > It replaced an expensive commercial packages and saving over **$4,000**.
 
 ---
+
 <div class="row justify-content-sm-center">
   <div class="col-sm-6 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/publication_preview/mahdi6-3532579-large.jpg" title="Automated frequency vs field (S21) sweep using Python" class="img-fluid rounded z-depth-1" %}
@@ -38,6 +41,7 @@ I have developed a **Python automation suite** for synchronized magnetic-field, 
 ---
 
 ### 🧩 Technical Implementation
+
 <p align="left">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" height="40" style="margin-right:10px;">
    <img src="https://media.licdn.com/dms/image/v2/D560BAQG5xabw5hAROA/company-logo_200_200/company-logo_200_200/0/1733947881555/quantum_design_logo?e=2147483647&v=beta&t=fzPqZwp6uHrnulOPZgjgDf2d6riW-IG9Z5Rvmc65bZY" alt="QD" height="40">

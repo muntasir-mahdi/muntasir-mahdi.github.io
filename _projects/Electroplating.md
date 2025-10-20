@@ -8,8 +8,9 @@ category: Graduate Research
 giscus_comments: false
 ---
 
-This project developed a 
-- **Nb and NbN coplanar waveguide (CPW)** platform with **indium bump electroplating** for **flip-chip bonded, current-controlled magnon–photon coupling** experiments. 
+This project developed a
+
+- **Nb and NbN coplanar waveguide (CPW)** platform with **indium bump electroplating** for **flip-chip bonded, current-controlled magnon–photon coupling** experiments.
 - The **DC lines and indium bumps** enable current injection (spin pumping) across **magnetic samples**, allowing tunable hybrid interactions in cryogenic measurements.
 
 ---
@@ -32,7 +33,7 @@ This project developed a
 
 ### Electroplating Process
 
-1. Indium bumps were electroplated at predefined contact pads on Nb and NbN DC lines using a **pulsed DC electroplating process** with a **Ti/Cu seed layer** for conductivity and adhesion. 
+1. Indium bumps were electroplated at predefined contact pads on Nb and NbN DC lines using a **pulsed DC electroplating process** with a **Ti/Cu seed layer** for conductivity and adhesion.
 2. Deposition parameters were optimized for **uniform thickness (~10–15 µm)**, **low roughness**, and **excellent mechanical stability** during flip-chip alignment.
 3. Module used: **HP Hewlett Packard 8011A Pulse Generator**
 
@@ -54,7 +55,7 @@ This project developed a
 
 ### Flip-Chip Integration and DC Lines
 
-- The **electroplated indium bumps** were designed for **flip-chip bonding** with magnetic or hybrid samples containing **DC bias lines** for current control. 
+- The **electroplated indium bumps** were designed for **flip-chip bonding** with magnetic or hybrid samples containing **DC bias lines** for current control.
 - These bonded structures enable **dynamic modulation and spin pumping** of the magnon–photon coupling strength by injecting DC bias through the superconducting paths.
 
 <div class="row justify-content-center">

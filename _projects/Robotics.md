@@ -8,21 +8,23 @@ category: Undergraduate Projects
 ---
 
 A series of **competitive robotics projects** built during 2016:
-- Mechanical design, embedded control, and sensor-based automation. 
-- Built for national and inter-university competitions across Bangladesh, 
+
+- Mechanical design, embedded control, and sensor-based automation.
+- Built for national and inter-university competitions across Bangladesh,
 - Showcasing rapid prototyping and real-time control strategies.
 
 ---
 
 ### 🏆 Competition Highlights
 
-| Year | Competition                                      | Event                      | Achievement         |
-| ---- | ------------------------------------------------ | -------------------------- | ------------------- |
-| 2016 | **Techfest**, Independent University Bangladesh  | Fighter Robot              | 🥇 Champion         |
-| 2016 | **Technovanza**, IEEE NSU Student Branch         | Sumo Robot                 | 🥉 2nd Runner-Up    |
-| 2016 | Various university workshops & internal contests | Line Follower              | Finalist/Exhibition |
+| Year | Competition                                      | Event         | Achievement         |
+| ---- | ------------------------------------------------ | ------------- | ------------------- |
+| 2016 | **Techfest**, Independent University Bangladesh  | Fighter Robot | 🥇 Champion         |
+| 2016 | **Technovanza**, IEEE NSU Student Branch         | Sumo Robot    | 🥉 2nd Runner-Up    |
+| 2016 | Various university workshops & internal contests | Line Follower | Finalist/Exhibition |
 
 ---
+
 ### ⚙️ Overview
 
 - **Fighter Robot** – _Champion_, Techfest 2016, Independent University, Bangladesh  
@@ -71,6 +73,7 @@ A series of **competitive robotics projects** built during 2016:
 - **Circuit Fabrication:** Used Proteus for circuit design and handmade PCBs using photopaper printed mask and Fe3O4 etch process
 
 ---
+
 ### 📰 Media Feature
 
 Our robotics journey was featured in the **Kaler Kantho National Daily** (Bangladesh), recognizing the creativity and success of the SUST Robotics Team. Read the full feature here:👉 [“টেক ফেস্ট সেরা” The Best in Tech Fest – Kaler Kantho (Nov 22, 2016)](https://www.kalerkantho.com/feature/campus/2016/11/22/432364)

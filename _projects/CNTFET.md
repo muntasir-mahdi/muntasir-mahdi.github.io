@@ -8,7 +8,8 @@ category: Undergraduate Projects
 related_publications: false
 ---
 
-This project explored the 
+This project explored the
+
 - **Electrical characterization and modeling of carbon nanotube field-effect transistors (CNTFETs)**, focusing on how device parameters and doping profiles influence transport behavior.
 - Simulation: **MATLAB** and **Simulink**, along with **nonequilibrium Green’s function (NEGF)**-based frameworks.
 
@@ -31,6 +32,7 @@ This project explored the
 ---
 
 ### Tools and Techniques
+
 <p align="left">
    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" height="40" style="margin-right:10px;">
    <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png?20220406131749" alt="Simulink" height="40">
@@ -40,8 +42,6 @@ This project explored the
 - **Theoretical Framework:** Nonequilibrium Green’s Function (NEGF)
 - **Device Parameters:** Channel diameter, gate oxide thickness, and doping concentration etc.
 - **Outputs:** I–V characteristics, transconductance, subthreshold slope
-
-
 
 ---
 

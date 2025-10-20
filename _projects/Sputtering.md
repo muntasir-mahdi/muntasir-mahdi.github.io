@@ -10,7 +10,7 @@ category: Graduate Research
 ## Overview
 
 I have done **deposition and characterization of magnetic thin films**, specifically **Yttrium Iron Garnet (YIG)** and **Permalloy (Ni₈₀Fe₂₀)**, and other materials such as Cu, Ti, Pt for use in magnonic, spintronic, optoelectronic and MOS devices.  
-I utilized **RF and DC sputtering** followed by **annealing**, and performed AFM, vibrating sample magnetometry (VSM), etc**, and **XRD crystallographic verification**.
+I utilized **RF and DC sputtering** followed by **annealing**, and performed AFM, vibrating sample magnetometry (VSM), etc**, and **XRD crystallographic verification\*\*.
 
 ---
 
@@ -18,13 +18,14 @@ I utilized **RF and DC sputtering** followed by **annealing**, and performed AFM
 
 YIG and Permalloy films were deposited using a **single-target sputtering system** under controlled pressure and power conditions. Below are some sputtering parameters, they can vary vastly depending on specific sputtering chamber/setup.
 
-- **YIG deposition:** RF sputtering on GGG or Si substrates 
-- **Permalloy deposition:** DC sputtering on Si/SiO₂ substrates  
-- **Base pressure:** 3 × 10⁻⁶ Torr  
-- **Working pressure:** 5 mTorr in Ar  
+- **YIG deposition:** RF sputtering on GGG or Si substrates
+- **Permalloy deposition:** DC sputtering on Si/SiO₂ substrates
+- **Base pressure:** 3 × 10⁻⁶ Torr
+- **Working pressure:** 5 mTorr in Ar
 - **Power:** 70-80 W (RF), 60 W (DC)
 
->- Tips and Tricks: 
+> - Tips and Tricks:
+
 1. Using Cu backing plate with YIG target minimize the risk of target cracking.
 2. Use 20 mils thick permalloy target instead of 0.25" thick target. Because, thicker target have difficulty striking the plasma due to strong ferromagnetism of permalloy.
 
@@ -47,7 +48,7 @@ Thin-film deposition workflow: Test wafers (left), YIG Target(middle), and YIG R
 
 ## Surface Morphology and Annealing
 
-- Deposition thickness of YIG films was inspected using **Atomic Force Microscopy (AFM)**. 
+- Deposition thickness of YIG films was inspected using **Atomic Force Microscopy (AFM)**.
 - To crystallize the amorphous YIG layer, samples were **annealed at 850 °C for 3–4 hours in ambient oxygen**, followed by controlled cooldown to room temperature.
 
 <div class="row">
@@ -75,7 +76,7 @@ Bottom: Photoresist profile of sputtered YIG.
 
 After annealing, films were characterized using **Vibrating Sample Magnetometry (VSM)** and **X-ray Diffraction (XRD)**:
 
-- **VSM:** Measured in-plane (IP) and out-of-plane (OOP) hysteresis (M–H) loop, revealing magnetic hysteresis and low coercivity. 
+- **VSM:** Measured in-plane (IP) and out-of-plane (OOP) hysteresis (M–H) loop, revealing magnetic hysteresis and low coercivity.
 - **XRD:** 2θ–ω scans confirmed polycrystalline YIG peaks and phase purity after high-temperature annealing.
 
 <div class="row">
@@ -106,5 +107,5 @@ Magnetic and structural characterization of annealed YIG: (left) VSM M–H loop;
 
 - **Sputtering System:** KJLC RF/DC sputter tool
 - **Characterization:** AFM, QD-PPMS (VSM), and Rigaku XRD
-- **Annealing Furnace:** High-temperature furnace (1200 °C max)  
+- **Annealing Furnace:** High-temperature furnace (1200 °C max)
 - **Location:** [Alabama Micro/Nano Science and Technology Center](https://www.eng.auburn.edu/amstc/) and [VT ECE Micron Technology Semiconductor Processing Lab](https://cleanroom.ece.vt.edu/)

@@ -7,10 +7,11 @@ importance: 6
 category: Graduate Research
 ---
 
-In this project I have done: 
+In this project I have done:
+
 - The **complete setup, calibration, and commissioning of a high-vacuum ion milling system** for advanced material processing and ferromagnetic thin-film research.
 - I was solely responsible for the **mechanical assembly of the CF flanges, vacuum configuration, and operational testing** of the entire system — including pump integration, Ar flow control, and ion beam source tuning.
-- I acknowledge AMNSTC Lab manager ([Drew Sellers](href=  linkedin.com/in/drew-sellers-5a347b63)) for helping out with troubleshooting.
+- I acknowledge AMNSTC Lab manager ([Drew Sellers](href= linkedin.com/in/drew-sellers-5a347b63)) for helping out with troubleshooting.
 
 ---
 

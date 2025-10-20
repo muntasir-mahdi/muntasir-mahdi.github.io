@@ -9,6 +9,7 @@ related_publications: false
 ---
 
 Different project goals were involved **characterization of magnetic and structural properties** of materials using:
+
 - **PPMS Measurements:** Magnetic (VSM), ferromagnetic resonance (FMR), electrical transport (ETO), Hall Measurement and current-dependent measurements using Keithley 6221 and NV 2182.
 - **RF & VNA Measurements:** Frequency vs. magnetic field S21 characterization using Vector Network Analyzer (VNA).
 - **Lock-In Amplifier & RF Generator:** Signal detection and excitation for magnetic and transport experiments.
@@ -65,7 +66,6 @@ Different project goals were involved **characterization of magnetic and structu
     </figure>
   </div>
 </div>
-
 
 ---
 

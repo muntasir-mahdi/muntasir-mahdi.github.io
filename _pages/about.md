@@ -86,8 +86,9 @@ latest_posts:
   <strong><em>"Precision in the nanoscale defines performance at the macroscale."</em></strong>
 </blockquote>
 
-I am a **Ph.D. student in Electrical Engineering at [Virginia Tech](https://ece.vt.edu/)**, focusing on **semiconductor materials, devices, fabrication, and circuit–device co-design**. 
-- My work bridges **materials and device physics** with **integrated circuit and photonic applications**. 
+I am a **Ph.D. student in Electrical Engineering at [Virginia Tech](https://ece.vt.edu/)**, focusing on **semiconductor materials, devices, fabrication, and circuit–device co-design**.
+
+- My work bridges **materials and device physics** with **integrated circuit and photonic applications**.
 - Before joining Virginia Tech, I completed my **M.S. at [Auburn University](https://www.auburn.edu/)** and **B.S. at [Shahjalal University of Science and Technology (SUST)](https://www.sust.edu/)**, Bangladesh.
 
 ## 🧪 Research Overview

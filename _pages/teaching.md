@@ -64,9 +64,9 @@ nav_order: 4
         <li><em>Ge/GeSn Quantum Lasers:</em> Supervised optical/electronic TCAD modeling and helped characterize Ge/GeSn quantum well structures for mid-IR lasers.</li>
       </ul>
     </li>
+
   </ul>
 </div>
-
 
 <div class="teaching-entry d-flex align-items-start">
   <!-- Text section -->
@@ -77,7 +77,7 @@ nav_order: 4
     <ul>
       <li>
         <strong>Data Science Camp for High School Students</strong><br>
-        <em>Supervisor:</em> 
+        <em>Supervisor:</em>
         <a href="https://www.science.vt.edu/about/directory/corbin-victoria.html" target="_blank">
           Dr. Victoria Corbin
         </a><br>
@@ -86,6 +86,7 @@ nav_order: 4
         – Helped with 5 different camps' logistics (driving, loading, supply etc.)
       </li>
     </ul>
+
   </div>
 
   <!-- Images section -->
@@ -94,7 +95,6 @@ nav_order: 4
     <img src="{{ '/assets/img/rpi/pi_cluster02.jpg' | relative_url }}" alt="Raspberry Pi" height="150">
   </div>
 </div>
-
 
 <div class="teaching-entry mt-4">
   <h3><a href="https://eng.auburn.edu/ece/" target="_blank">Auburn University</a> – Department of Electrical & Computer Engineering</h3>
@@ -110,7 +110,6 @@ nav_order: 4
     </li>
   </ul>
 </div>
-
 
 ---
 
@@ -149,4 +148,3 @@ nav_order: 4
 <p>
   Guided over <strong>300 students</strong> across three universities — from theoretical understanding, hands-on chip fabrication to data science and experimental research mentorship.
 </p>
-

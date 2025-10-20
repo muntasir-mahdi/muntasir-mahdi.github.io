@@ -14,9 +14,10 @@ For multiple projects I have done the **fabrication and characterization** of:
 - **Nb resonators and CPWs** for low-temperature, cryogenic experiments
 - **Cu resonators and CPWs** for room-temperature S-parameter testing
 
-The key components of this work: 
+The key components of this work:
+
 - Electroplating **Indium (In) bump structures** on resonator & coplanar waveguide (CPW) chips for **spin pumping and magnetic control interfaces**. Details in <a href="{{ '/projects/electroplating/' | relative_url }}"><strong>Electroplating</strong></a>.
-- DC lines enabled **current-controlled magnon–magnon and magnon–photon coupling** in hybrid quantum systems. 
+- DC lines enabled **current-controlled magnon–magnon and magnon–photon coupling** in hybrid quantum systems.
 - Established a **repeatable fabrication workflow** and validate resonator performance across **temperatures and magnetic fields**.
 
 <div class="row justify-content-sm-center">
@@ -110,7 +111,6 @@ Devices were fabricated using **optical lithography and thin-film deposition**:
 <p align="center">
    <img src="https://media.imgcdn.org/repo/2023/03/keysight-advanced-design-system/Keysight-Advanced-Design-System-ADS-Free-Download.jpg" alt="ADS" height="110" style="margin-right:10px;">
 </p>
-
 
 - **Software:** Keysight ADS, KLayout, Python
 - **Equipment:** DC sputter system, mask aligner, VNA, optical profiler, electroplating setup

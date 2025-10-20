@@ -32,7 +32,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
+          description: "For my résumé PDF, please click into this PDF button-",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -394,23 +394,18 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-characterization-of-carbon-nanotube-field-effect-transistor-cntfet",
+          section: "News",},{id: "projects-characterization-of-carbon-nanotube-field-effect-transistor-cntfet",
           title: 'Characterization of Carbon Nanotube Field-Effect Transistor (CNTFET)',
           description: "Analysis of CNTFET performance and parameter variation using MATLAB and NEGF simulations.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/CNTFET/";
-            },},{id: "projects-indium-electroplating-for-current-controlled-magnon-photon-coupling",
-          title: 'Indium Electroplating for Current-Controlled Magnon–Photon Coupling',
+            },},{id: "projects-electroplating-indium-for-current-controlled-magnon-photon-coupling",
+          title: 'Electroplating Indium for Current-Controlled Magnon–Photon Coupling',
           description: "Electroplating of indium bumps on Nb and NbN coplanar waveguides and resonators for flip-chip bonded current-controlled magnon–photon coupling measurements.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Electroplating/";
-            },},{id: "projects-optical-and-electronic-properties-of-epitaxial-germanium-thin-films",
-          title: 'Optical and Electronic Properties of Epitaxial Germanium Thin Films',
+            },},{id: "projects-optical-and-electronic-properties-of-epitaxial-germanium",
+          title: 'Optical and Electronic Properties of Epitaxial Germanium',
           description: "Optical characterization, modeling, and strain-dependent transitions in epitaxial Ge and GeSn thin films.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Germanium/";
@@ -419,9 +414,9 @@ ninja.data = [{
           description: "Complete setup, calibration, and operation of a Kaufman Ar ion milling system for precision surface processing.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Ion_Milling/";
-            },},{id: "projects-advanced-magnetic-amp-structural-characterization",
-          title: 'Advanced Magnetic &amp;amp; Structural Characterization',
-          description: "Measurement and analysis of magnetic and nanoscale properties using PPMS, VNA, AFM/MFM, XRD, and related instruments.",
+            },},{id: "projects-magnetic-amp-structural-characterization",
+          title: 'Magnetic &amp;amp; Structural Characterization',
+          description: "Measurement and analysis of magnetic and nanoscale properties using PPMS, VNA, AFM/MFM, XRD, and related instruments. Many of the PPMS measurements were done at low temperature (sub 2 K).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Magnetic_Measurements/";
             },},{id: "projects-nbn-superconducting-resonator-for-strong-magnon-photon-coupling",
@@ -429,11 +424,16 @@ ninja.data = [{
           description: "Fabrication and measurement of NbN superconducting resonators demonstrating strong coupling with YIG spheres.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/NbN_Resonators/";
-            },},{id: "projects-superconducting-nb-amp-cu-resonator-and-cpw-fabrication",
-          title: 'Superconducting Nb &amp;amp; Cu Resonator and CPW Fabrication',
+            },},{id: "projects-superconducting-nb-amp-cu-resonator-cpw-fabrication",
+          title: 'Superconducting Nb &amp;amp; Cu Resonator/CPW Fabrication',
           description: "Microfabrication of superconducting Nb resonators/ CPWs for cryogenic measurements and Cu resonators/ CPWs for room-temperature testing.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Nb_Cu_Resonators/";
+            },},{id: "projects-nb-josephson-junction-fabrication",
+          title: 'Nb Josephson Junction Fabrication',
+          description: "Fabrication and characterization of Nb/AlOx/Nb Josephson junctions.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Nb_JJ/";
             },},{id: "projects-pcb-design-amp-assembly-for-sub-2-k-magnetic-measurements",
           title: 'PCB Design &amp;amp; Assembly for Sub-2 K Magnetic Measurements',
           description: "PCB assembly, CPW mounting, and low-temperature setup for magnetic sample characterization.",
@@ -441,7 +441,7 @@ ninja.data = [{
               window.location.href = "/projects/PCB_Designs_PPMS/";
             },},{id: "projects-python-automation-for-ppms-vna-and-transport-measurements",
           title: 'Python Automation for PPMS–VNA and Transport Measurements',
-          description: "Python-based automation for synchronized magnetic field and frequency sweeps using PPMS, Agilent PNA 5227A, and Keithley instruments.",
+          description: "Python-based programming to automate measurements with synchronized magnetic field, temperature, and frequency sweeps using PPMS, Agilent PNA 5227A, and Keithley instruments.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/PPMS_VNA_Python/";
             },},{id: "projects-rfid-based-security-and-access-tracking-system",
@@ -459,11 +459,21 @@ ninja.data = [{
           description: "Design and development of an autonomous Mars Rover for international robotics challenges.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Rover/";
-            },},{id: "projects-yig-rf-amp-permalloy-dc-sputtering-and-annealing",
-          title: 'YIG RF &amp;amp; Permalloy DC Sputtering and Annealing',
-          description: "Thin-film deposition and annealing of YIG and Permalloy samples.",
+            },},{id: "projects-material-deposition-and-characterization-yig-permalloy-cu-ti-pt-etc",
+          title: 'Material Deposition and Characterization (YIG, Permalloy, Cu, Ti, Pt etc)',
+          description: "Thin-film deposition and characterization of materials (metals, dielectrics, magnetic), annealing, AFM, VSM, XRD among other analyses.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Sputtering/";
+            },},{id: "projects-rfid-based-security-and-access-tracking-system",
+          title: 'RFID-Based Security and Access Tracking System',
+          description: "Development of an RFID-based digital access control and monitoring system for institutional security.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/laser_fab/";
+            },},{id: "projects-rfid-based-security-and-access-tracking-system",
+          title: 'RFID-Based Security and Access Tracking System',
+          description: "Development of an RFID-based digital access control and monitoring system for institutional security.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/moscap_fab/";
             },},{
         id: 'social-email',
         title: 'email',

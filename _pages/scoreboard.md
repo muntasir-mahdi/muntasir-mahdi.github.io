@@ -1,10 +1,10 @@
 ---
 layout: page
-permalink: /teaching/
-title: Teaching & Mentoring
-description: Teaching and mentoring experiences at Virginia Tech, Auburn University, and USTC.
-nav: true
-nav_order: 4
+permalink: /score/
+title: My Scoreboard
+description: My positions and scores
+nav: false
+nav_order: 
 ---
 
 <style>

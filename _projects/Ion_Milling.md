@@ -7,8 +7,10 @@ importance: 6
 category: Graduate Research
 ---
 
-This project involved the **complete setup, calibration, and commissioning of a high-vacuum ion milling system** for advanced material processing and ferromagnetic thin-film research.  
-I was solely responsible for the **mechanical assembly, vacuum configuration, electrical wiring, and operational testing** of the entire system — including pump integration, Ar flow control, and ion beam source tuning.
+In this project I have done: 
+- The **complete setup, calibration, and commissioning of a high-vacuum ion milling system** for advanced material processing and ferromagnetic thin-film research.
+- I was solely responsible for the **mechanical assembly of the CF flanges, vacuum configuration, and operational testing** of the entire system — including pump integration, Ar flow control, and ion beam source tuning.
+- I acknowledge AMNSTC Lab manager ([Drew Sellers](href=  linkedin.com/in/drew-sellers-5a347b63)) for helping out with troubleshooting.
 
 ---
 
@@ -24,7 +26,7 @@ I was solely responsible for the **mechanical assembly, vacuum configuration, el
     </div>
 </div>
 <div class="caption">
-System overview: Left – Vacuum chamber before setup; Middle – CF flanges and HiPace300 turbo and dry pump installed; Right – Completed setup with Kaufman KDC-40 Ar ion gun and control panels.
+System overview: Left – Vacuum chamber setup in progress; Middle – CF flanges and HiPace300 turbo and dry pump installed; Right – Completed setup with Kaufman KDC-40 Ar ion gun and control panels.
 </div>
 
 ---
@@ -37,7 +39,7 @@ System overview: Left – Vacuum chamber before setup; Middle – CF flanges and
 | **Ion Source Controller** | KRI KSC-1202                     | Power supply and control of beam and discharge parameters      |
 | **Turbo Pump**            | Pfeiffer HiPace300               | High-speed turbomolecular pump (1000–1005 Hz normal operation) |
 | **Backing Pump**          | Edwards Dry Pump                 | Supports turbo pump during chamber evacuation                  |
-| **Chamber Pressure**      | ~5 × 10⁻⁵ Torr (base pressure)   | Achieved using turbo + dry pump configuration                  |
+| **Chamber Base Pressure** | ~5 × 10<sup>-6</sup> Torr        | Achieved using turbo + dry pump configuration                  |
 | **Gas Flow System**       | MKS Mass Flow Controller (MFC)   | Controls Ar flow rate and pressure stability                   |
 | **Ar Source**             | High-purity Argon Cylinder       | Supplies controlled Ar flow to the ion gun                     |
 | **Valves**                | CF, GV valves (manual)           | Isolation of chamber, turbo, and venting lines                 |
@@ -48,9 +50,8 @@ System overview: Left – Vacuum chamber before setup; Middle – CF flanges and
 
 ### 🧩 My Role & Achievements
 
-- **Full System Setup:** Designed, assembled, and aligned the vacuum chamber, turbo, and ion source.
-- **Vacuum Commissioning:** Achieved stable base pressure below 5×10⁻⁵ Torr.
-- **Ion Beam Operation:** Calibrated discharge and beam parameters for consistent etching.
+- **Full System Setup:** Assembled, and aligned the vacuum chamber, turbo, and ion source.
+- **Vacuum Commissioning:** Achieved stable base pressure below 5×10<sup>-6</sup> Torr.
 - **Custom Sample Fixtures:** Modeled and 3D-printed holders in Fusion 360 for accurate sample positioning.
 - **Standard Operating Procedure:** Authored a detailed SOP covering operation, safety, and maintenance (including ion filament replacement).
 - **Safety & Maintenance:** Implemented proper valve sequencing and pump protection to avoid overpressure damage.
@@ -69,18 +70,21 @@ System overview: Left – Vacuum chamber before setup; Middle – CF flanges and
 Custom sample holders: Left – CAD model in Fusion 360; Right – installed in the vacuum chamber.
 </div>
 
+<p align="center">
+   <img src="https://i.pinimg.com/736x/79/c1/4a/79c14a06b3a0141a7709d66435234c4b.jpg" alt="Fusion" height="90" style="margin-right:10px;">
+</p>
+
 ---
 
 ### 🧠 Learned Skills
 
 - High-vacuum system design, operation, and troubleshooting
-- Ion beam physics and milling optimization
+- Ion beam physics and ion milling process development
 - Integration of vacuum pumps, flow control, and beam power systems
 - 3D CAD-based mechanical design (Fusion 360)
 - Writing and implementing Standard Operating Procedures (SOPs)
 
 ---
 
-> _“Precision at the nanoscale begins with mastering the vacuum.”_  
 > — System commissioned and operated by **Muntasir Mahdi (April 2023)**  
 > Points of contact: Drew Sellers (jas0149@auburn.edu) · Mike Hamilton (mchamilton@auburn.edu)

@@ -3,10 +3,10 @@
     "name": "Muntasir Mahdi",
     "label": "Ph.D student in Electrical Engineering",
     "image": "mm_in_lab.png",
-    "email": "muntasirm@vt.edu",
+    "email": "muntasirm[at]vt[dot]edu",
     "phone": "",
     "url": "",
-    "summary": "Ph.D. student at Virginia Tech specializing in semiconductor devices, epitaxial growth, and quantum photonic systems. My research explores the design, fabrication, and physical modeling of group-IV and 2D material systems, focusing on Ge/GeSn integration, carrier transport, and optoelectronic coupling at the nanoscale. I bridge experimental and computational approaches across thin film growth, device characterization, and TCAD modeling for next-generation nanoelectronics.",
+    "summary": "Ph.D. student at Virginia Tech specializing in semiconductor devices and quantum photonics. My research integrates epitaxial growth, device fabrication, and physical modeling of group-IV and 2D materials, with emphasis on Ge/GeSn heterostructures, carrier transport, and nanoscale optoelectronic coupling. I combine experimental and TCAD-based approaches to advance next-generation nanoelectronic and photonic technologies.",
     "location": {
       "address": "Whittemore Hall, Perry St",
       "postalCode": "VA 24060",
@@ -28,18 +28,18 @@
       "institution": "Virginia Tech",
       "location": "Blacksburg, VA, USA",
       "url": "https://vt.edu",
-      "area": "Electrical and Computer Engineering",
+      "area": "Electrical Engineering",
       "studyType": "Ph.D.",
       "startDate": "2024-08",
       "score": "GPA: 3.9 / 4.0",
-      "courses": ["Semiconductor Devices", "Quantum Systems", "Photonic Integration"]
+      "courses": ["Semiconductor Devices", "Quantum Systems", "Optoelectronics" ]
     },
 
     {
       "institution": "Auburn University",
       "location": "Auburn, AL, USA",
       "url": "https://auburn.edu",
-      "area": "Electrical and Computer Engineering",
+      "area": "Electrical Engineering",
       "studyType": "M.S.",
       "startDate": "2021-05",
       "endDate": "2024-08",
@@ -56,7 +56,7 @@
       "startDate": "2015-03",
       "endDate": "2019-04",
       "score": "GPA: 3.58 / 4.0",
-      "courses": ["Analog & Digital Electronics", "Control Systems", "Embedded Systems and Robotics"]
+      "courses": ["Semiconductor Devices", "Control Systems", "Embedded Systems and Robotics"]
     }
   ],
 
@@ -66,13 +66,11 @@
       "position": "Graduate Research Assistant",
       "url": "https://ece.vt.edu",
       "startDate": "2024-08",
-      "summary": "NSF-funded research on epitaxial Ge/GeSn quantum wells for tunable photonic and electronic devices, integrating thin-film growth, optical characterization, and TCAD modeling.",
+      "summary": "NSF-funded research on epitaxial Ge/GeSn quantum wells for tunable optoelectronic devices.",
       "highlights": [
-        "MBE growth of Ge/GeSn quantum wells",
-        "Strain–composition–optics correlation",
-        "Mid-IR laser and detector design",
-        "TCAD and band-structure simulation",
-        "Undergraduate mentoring (ECE MDE)"
+        "Semiconductor materials and devices",
+        "Strain–composition–band structure analysis",
+        "Optical and TCAD simulation of device behavior"
       ]
     },
 
@@ -98,8 +96,10 @@
       "url": "https://ustc.edu.bd",
       "startDate": "2019-12",
       "endDate": "2021-05",
-      "summary": "Taught core electronics and control systems, supervised labs, and established the department’s first VLSI Laboratory.",
-      "highlights": ["Electronics & control systems", "Lab supervision & project advising", "VLSI lab setup & EDA tools", "Curriculum development"]
+      "summary": "Taught core circuit, electronics and control systems, supervised labs.",
+      "highlights": ["Circuit, Electronics & control systems", 
+        "Lab supervision & project advising", 
+        "Curriculum development"]
     },
 
     {
@@ -107,7 +107,10 @@
       "position": "Graduate Teaching Assistant",
       "startDate": "2024-08",
       "summary": "Supported VLSI design and semiconductor device courses, guiding student research and design projects.",
-      "highlights": ["Cadence Virtuoso (NCSU-FreePDK45)", "Major Design Experience mentoring", "Ge/GeSn laser & FET projects", "TCAD for NC-NSFETs"]
+      "highlights": [" VLSI Design (Cadence Virtuoso)", 
+        "Major Design Experience mentoring", 
+        "Ge/GeSn laser & FET projects", 
+        "TCAD for NC-NSFETs"]
     },
 
     {
@@ -133,37 +136,81 @@
       "position": "Research Assistant",
       "startDate": "2018-07",
       "endDate": "2019-07",
-      "summary": "Undergraduate research and robotics development projects under SUSTRC funding.",
+      "summary": "Undergraduate research and robotics projects",
       "highlights": [
         "CNTFET modeling (MATLAB/Simulink)",
         "Mars Rover (URC & ERC competitions)",
-        "UAV-based document transfer system",
-        "RFID security system design",
+        "RFID attendance system prototype",
         "National robotics competition awards"
       ]
     }
   ],
 
+  "projects": [
+    {
+      "name": "Projects Portfolio",
+      "summary": "Complete list of graduate and undergraduate projects are listed in the projects portfolio.",
+      "highlights": [],
+      "url": "https://muntasir-mahdi.github.io/projects/"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Peer-Reviewed Journal and Conference Papers",
+      "publisher": "Wiley, APS, IEEE, AIP",
+      "releaseDate": "2025",
+      "summary": "Authored and co-authored 8+ journal papers and 3 conference proceedings on semiconductor devices, quantum systems, and photonics.",
+      "url": "https://muntasir-mahdi.github.io/publications/"
+    }
+  ],
+
   "awards": [
     {
-      "title": "EEE Magnetics Society Travel Grant",
+      "title": "IEEE Magnetics Society Travel Grant",
       "date": "2022-01-01",
       "awarder": "Joint MMM-Intermag Conference",
       "url": "",
-      "summary": "Awarded for academic excellence and research contribution in applied magnetism."
+      "category": "Academic",
+      "summary": "Awarded $1000 for conference travel selected for academic excellence and research contribution in applied magnetism."
     },
     {
       "title": "Bangladesh Sweden Trust Fund Travel Grant",
       "date": "2021-01-01",
       "awarder": "Economic Relations Division, Government of the People’s Republic of Bangladesh",
       "url": "",
+      "category": "Academic",
       "summary": "Supported travel to the United States for graduate studies based on academic merit."
+    },
+    {
+      "title": "Secondary & Higher Secondary Education Board Scholarships",
+      "date": "2014-01-01",
+      "awarder": "National Curriculum & Textbook Board, Bangladesh",
+      "url": "",
+      "category": "Academic",
+      "summary": "Merit-based scholarships for SSC and HSC exams (2012 & 2014) recognizing academic excellence."
+    },
+    {
+      "title": "Divisional Science Olympiad",
+      "date": "2012-01-01",
+      "awarder": "Bangladesh Academy of Science (BAS)",
+      "url": "",
+      "category": "Academic",
+      "summary": "Ranked 7th for outstanding performance in science Olympiad."
+    },
+    {
+      "title": "Divisional Science Olympiad",
+      "date": "2013-01-01",
+      "awarder": "Bangladesh Academy of Science (BAS)",
+      "url": "",
+      "category": "Academic",
+      "summary": "Ranked 5th for outstanding performance in science Olympiad."
     },
     {
       "title": "Champion, Fighter Robot Competition",
       "date": "2016-01-01",
       "awarder": "Techfest, Independent University Bangladesh (IUB)",
       "url": "",
+      "category": "Extracurricular",
       "summary": "Secured first place among national participants in a robotics competition."
     },
     {
@@ -171,49 +218,32 @@
       "date": "2016-01-01",
       "awarder": "Technovanza, Bangladesh",
       "url": "",
-      "summary": "Recognized for design and control strategy in autonomous robotics."
+      "category": "Extracurricular",
+      "summary": "Placed third in the first national sumo robot competition."
     },
     {
       "title": "Most Prominent Debater Award",
       "date": "2015-01-01",
       "awarder": "Intra-Club Debating Competition, SUST",
       "url": "",
+      "category": "Extracurricular",
       "summary": "Acknowledged for outstanding debating and public speaking skills."
     },
     {
       "title": "Qualified Quarter Finalist, Inter-Department Debating Competition",
       "date": "2017-01-01",
-      "awarder": "SUST EEE Department",
+      "awarder": "Shahjalal University Debating Society",
       "url": "",
+      "category": "Extracurricular",
       "summary": "Reached the quarter-final round representing the EEE department."
     },
     {
-      "title": "Man of the Final, Intra-Department Football Tournament",
+      "title": "Man of the Final, Intra-Department Soccer Tournament",
       "date": "2017-01-01",
-      "awarder": "SUST",
+      "awarder": "SUST EEE Department",
       "url": "",
-      "summary": "Received individual award for exceptional performance in the final match."
-    },
-    {
-      "title": "Secondary & Higher Secondary Education Board Scholarships",
-      "date": "2012-01-01",
-      "awarder": "National Curriculum & Textbook Board, Bangladesh",
-      "url": "",
-      "summary": "Merit-based scholarships for SSC and HSC exams (2012 & 2014) recognizing academic excellence."
-    },
-    {
-      "title": "Bangladesh Academy of Science (BAS) Divisional Science Olympiad",
-      "date": "2012-01-01",
-      "awarder": "BAS",
-      "url": "",
-      "summary": "Ranked 7th nationally for outstanding performance in science Olympiad."
-    },
-    {
-      "title": "Bangladesh Academy of Science (BAS) Divisional Science Olympiad",
-      "date": "2013-01-01",
-      "awarder": "BAS",
-      "url": "",
-      "summary": "Ranked 5th nationally for outstanding performance in science Olympiad."
+      "category": "Extracurricular",
+      "summary": "Besides being the tournament champion, received individual award for exceptional performance in the final match."
     }
   ],
 
@@ -374,16 +404,6 @@
     }
   ],
 
-  "publications": [
-    {
-      "name": "Peer-Reviewed Journal and Conference Papers",
-      "publisher": "Wiley, APS, IEEE, AIP",
-      "releaseDate": "2024",
-      "summary": "Authored and co-authored 8+ journal papers and 3 conference proceedings on semiconductor devices, quantum systems, and photonics.",
-      "url": "https://muntasir-mahdi.github.io/publications/"
-    }
-  ],
-
   "skills": [
     {
       "name": "Semiconductor & Quantum Device Fabrication",
@@ -396,9 +416,7 @@
         "Electroplating",
         "DC & RF Sputtering",
         "Ion Milling",
-        "Cleanroom Processing",
-        "Quantum Well Engineering",
-        "Quantum Dot Engineering"
+        "Cleanroom Processing"
       ]
     },
     {
@@ -414,13 +432,12 @@
       "keywords": [
         "Python",
         "MATLAB",
-        "C/C++",
+        "C",
         "Assembly Language",
         "OriginLab",
         "Data Analysis",
         "Visualization",
-        "Device Simulation",
-        "Statistical Modeling"
+        "Device Simulation"
       ]
     },
     {
@@ -446,7 +463,11 @@
       "name": "Embedded Systems & Hardware Integration",
       "level": "Advanced",
       "icon": "fa-solid fa-microchip",
-      "keywords": ["Microcontrollers (ATmega328P)", "Raspberry Pi", "Embedded Systems Design", "Sensor Interfacing", "Robotics Applications"]
+      "keywords": ["Microcontrollers (ATmega328P)", 
+        "Raspberry Pi", 
+        "Embedded Systems", 
+        "Sensor Interfacing", 
+        "Robotics Applications"]
     },
     {
       "name": "Research & Project Management",
@@ -458,11 +479,9 @@
         "Spintronics & Magnonics",
         "Superconducting Resonators",
         "III-V Buffer Layer Engineering",
-        "Epitaxial Growth (MBE, CVD)",
         "Materials Integration",
         "Project Planning",
-        "International Collaboration",
-        "Grant Writing"
+        "International Collaboration"
       ]
     },
     {
@@ -499,7 +518,12 @@
     {
       "name": "Personal Interests",
       "icon": "fa-solid fa-heart",
-      "keywords": ["Robotics Competitions", "Science Outreach", "Data Science Projects", "AI & Machine Learning", "Astronomy & Space Technology"]
+      "keywords": ["Robotics Competitions",
+      "Debating & Public Speaking", 
+      "Soccer",
+      "Cooking",
+      "Reading Books", 
+      "Traveling"]
     }
   ],
 
@@ -507,38 +531,18 @@
     {
       "name": "Dr. Michael C. Hamilton",
       "icon": "fa-solid fa-user-tie",
-      "reference": "James B. Davis Professor, Dept. of ECE, Auburn University. Director, AMNSTC. Email: mchamilton@auburn.edu | Office: 334-844-1879 | Mobile: 978-944-2112 | Researcher ID: Q-8217-2017 | ORCID: 0000-0002-8635-6790 | Website: https://fast.auburn.edu/"
+      "reference": "James B. Davis Professor, Dept. of ECE, Auburn University. Director, AMNSTC. Email: mchamilton@auburn.edu | ORCID: 0000-0002-8635-6790",
+      "website": "https://fast.auburn.edu/"
     },
     {
       "name": "Dr. Mantu Hudait",
       "icon": "fa-solid fa-chalkboard-teacher",
-      "reference": "Principal Investigator, Virginia Tech, Dept. of ECE. Email: mantu.hudait@vt.edu | Tel: 540-231-6663 | Fax: 540-231-3362 | ORCID: 0000-0002-9789-3081 | Website: https://www.adsel.ece.vt.edu/drhudait.html"
+      "reference": "Associate Professor, Virginia Tech, Dept. of ECE. Email: mantu.hudait@vt.edu | ORCID: 0000-0002-9789-3081 | Website: https://www.adsel.ece.vt.edu/drhudait.html"
     },
     {
       "name": "Dr. Victoria Corbin",
       "icon": "fa-solid fa-building-columns",
-      "reference": "Assistant Dean for Outreach and Student Engagement, Virginia Tech. Email: cvictoria@vt.edu | Office: North End Center, Suite 4300, 300 Turner St NW, Blacksburg, VA 24061"
-    }
-  ],
-
-  "projects": [
-    {
-      "name": "Ge/GeSn Photonics",
-      "summary": "Research on epitaxial growth, optical characterization, and tunable laser devices in group-IV photonic systems.",
-      "highlights": ["Quantum Wells", "Laser Design", "Optoelectronics"],
-      "url": "https://muntasir-mahdi.github.io/projects#ge-gsn-photonics"
-    },
-    {
-      "name": "Hybrid Quantum Devices",
-      "summary": "Development of magnon–photon and magnon–magnon coupled on-chip devices.",
-      "highlights": ["Superconducting Resonators", "Quantum Spintronics"],
-      "url": "https://muntasir-mahdi.github.io/projects#hybrid-quantum-devices"
-    },
-    {
-      "name": "Robotics & UAV Systems",
-      "summary": "Undergraduate research on Mars Rover prototypes, UAV-based document transfer, and robotics competitions.",
-      "highlights": ["Autonomous Robots", "UAV Design", "RFID Systems"],
-      "url": "https://muntasir-mahdi.github.io/projects#robotics-uav"
+      "reference": "Assistant Dean for Outreach and Student Engagement, Virginia Tech. Email: cvictoria@vt.edu | Website: https://www.science.vt.edu/people/corbin-victoria.html"
     }
   ]
 }

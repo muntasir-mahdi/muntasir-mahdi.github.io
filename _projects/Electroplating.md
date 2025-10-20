@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Indium Electroplating for Current-Controlled Magnon–Photon Coupling
+title: Electroplating Indium for Current-Controlled Magnon–Photon Coupling
 description: Electroplating of indium bumps on Nb and NbN coplanar waveguides and resonators for flip-chip bonded current-controlled magnon–photon coupling measurements.
 img: assets/img/NbN/after_plating.jpg
 importance: 3
@@ -8,7 +8,9 @@ category: Graduate Research
 giscus_comments: false
 ---
 
-This project developed a **Nb and NbN coplanar waveguide (CPW)** platform with **indium bump electroplating** for **flip-chip bonded, current-controlled magnon–photon coupling** experiments. Besides, the **DC lines and indium bumps** enable current injection across **NbN superconducting resonators**, allowing tunable hybrid interactions in cryogenic measurements.
+This project developed a 
+- **Nb and NbN coplanar waveguide (CPW)** platform with **indium bump electroplating** for **flip-chip bonded, current-controlled magnon–photon coupling** experiments. 
+- The **DC lines and indium bumps** enable current injection (spin pumping) across **magnetic samples**, allowing tunable hybrid interactions in cryogenic measurements.
 
 ---
 
@@ -30,7 +32,9 @@ This project developed a **Nb and NbN coplanar waveguide (CPW)** platform with *
 
 ### Electroplating Process
 
-Indium bumps were electroplated at predefined contact pads on Nb and NbN CPWs using a **pulsed DC electroplating process** with a **Cu seed layer** for conductivity and adhesion. Deposition parameters were optimized for **uniform thickness (~10–15 µm)**, **low roughness**, and **excellent mechanical stability** during flip-chip alignment.
+1. Indium bumps were electroplated at predefined contact pads on Nb and NbN DC lines using a **pulsed DC electroplating process** with a **Ti/Cu seed layer** for conductivity and adhesion. 
+2. Deposition parameters were optimized for **uniform thickness (~10–15 µm)**, **low roughness**, and **excellent mechanical stability** during flip-chip alignment.
+3. Module used: **HP Hewlett Packard 8011A Pulse Generator**
 
 <div class="row justify-content-center">
   <div class="col-md-10 mt-3 mt-md-0">
@@ -50,7 +54,8 @@ Indium bumps were electroplated at predefined contact pads on Nb and NbN CPWs us
 
 ### Flip-Chip Integration and DC Lines
 
-The **electroplated indium bumps** were designed for **flip-chip bonding** with magnetic or hybrid samples containing **DC bias lines** for current control. These bonded structures enable **dynamic modulation** of the magnon–photon coupling strength by injecting DC bias through the superconducting paths.
+- The **electroplated indium bumps** were designed for **flip-chip bonding** with magnetic or hybrid samples containing **DC bias lines** for current control. 
+- These bonded structures enable **dynamic modulation and spin pumping** of the magnon–photon coupling strength by injecting DC bias through the superconducting paths.
 
 <div class="row justify-content-center">
   <div class="col-md-12 mt-3 mt-md-0">

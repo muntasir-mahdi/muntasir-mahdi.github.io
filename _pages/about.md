@@ -86,14 +86,16 @@ latest_posts:
   <strong><em>"Precision in the nanoscale defines performance at the macroscale."</em></strong>
 </blockquote>
 
-I am a **Ph.D. student in Electrical and Computer Engineering at [Virginia Tech](https://ece.vt.edu/)**, focusing on **semiconductor devices, fabrication, and circuit–device co-design**. My work bridges **materials and device physics** with **integrated circuit and photonic applications**. Before joining Virginia Tech, I completed my **M.S. at [Auburn University](https://www.auburn.edu/)** and **B.S. at [Shahjalal University of Science and Technology (SUST)](https://www.sust.edu/)**, Bangladesh.
+I am a **Ph.D. student in Electrical Engineering at [Virginia Tech](https://ece.vt.edu/)**, focusing on **semiconductor materials, devices, fabrication, and circuit–device co-design**. 
+- My work bridges **materials and device physics** with **integrated circuit and photonic applications**. 
+- Before joining Virginia Tech, I completed my **M.S. at [Auburn University](https://www.auburn.edu/)** and **B.S. at [Shahjalal University of Science and Technology (SUST)](https://www.sust.edu/)**, Bangladesh.
 
 ## 🧪 Research Overview
 
 - **Semiconductor Devices & Materials:** Epitaxial Ge, CMOS-compatible processes, defect engineering
 - **Superconducting Systems:** Nb/NbN resonators, Josephson junctions, cryogenic packaging
-- **Device–Circuit Co-Design:** Modeling fabrication–performance linkage, parameter extraction
-- **Tools:** TCAD Sentaurus, ADS, Virtuoso, Python automation, AFM, VNA, XRD, PPMS, Ellipsometry
+- **Device–Circuit Co-Design:** Modeling fabrication–performance linkage
+- **Tools:** TCAD Sentaurus, ADS, Virtuoso, Python, AFM, VNA, XRD, PPMS, Ellipsometry etc.
 
 <div style="margin-top:8px;"></div>
 
@@ -117,7 +119,7 @@ I am a **Ph.D. student in Electrical and Computer Engineering at [Virginia Tech]
   <div>
     <strong>M.S. in Electrical Engineering</strong>, May 2021 – Aug 2024  
     <br><a href="https://www.auburn.edu/">Auburn University</a>, Auburn, AL  
-    <br>• Research: Superconducting devices, low-temperature measurement, process development
+    <br>• Research: Superconducting devices, magnonics and spintronics, low-temperature measurement, process development
     <br>• Advisor: <a href="https://fast.auburn.edu/" target="_blank">Dr. Michael C. Hamilton</a> (Research Group: <a href="https://fast.auburn.edu/">Auburn Nanosystems Group</a>)
     <br>• GPA: 3.5 / 4.0
   </div>

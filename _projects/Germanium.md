@@ -1,17 +1,18 @@
 ---
 layout: page
-title: Optical and Electronic Properties of Epitaxial Germanium Thin Films
+title: Optical and Electronic Properties of Epitaxial Germanium
 description: Optical characterization, modeling, and strain-dependent transitions in epitaxial Ge and GeSn thin films.
-img: assets/img/publication_preview/joshi2025optical.jpg
+img: assets/img/publication_preview/joshi2025optical_cover.jpg
 importance: 1
 category: Graduate Research
-related_publications: true
+related_publications: false
 ---
 
 ## Overview
 
-This research examines the **optical and electronic behavior of epitaxial Ge and GeSn thin films** for **photonics and quantum devices**, using **spectroscopic ellipsometry**, **critical-point (CP) analysis**, and **atomistic modeling**.  
-The studies reveal how **strain, defects, and alloy composition** modulate the dielectric response and band-structure transitions.
+This research examines the 
+- **optical and electronic behavior of epitaxial Ge and GeSn thin films** for **photonics and quantum devices**, using **spectroscopic ellipsometry**, and **critical-point (CP) analysis**.
+- How **strain, defects, buffer layer thickness, and substrate orientation** modulate the dielectric response and band-structure transitions.
 
 ---
 
@@ -20,8 +21,8 @@ The studies reveal how **strain, defects, and alloy composition** modulate the d
 **_Phys. Rev. Applied 23, 024037 (2025)_**  
 [DOI: 10.1103/PhysRevApplied.23.024037](https://doi.org/10.1103/PhysRevApplied.23.024037)
 
-Comprehensive optical modeling of **biaxially strained epitaxial Ge films** grown by RPCVD.  
-Strain-induced shifts in **E₁ and E₂** transitions were extracted via **second-derivative CP analysis**, linking strain and film thickness to dielectric evolution.
+- Comprehensive ellipsometry modeling of **biaxially strained epitaxial Ge films** grown by molecular beam epitaxay (MBE). 
+- Strain-induced shifts in **Critical Point** transitions were extracted via **second-derivative CP analysis**, linking strain and film thickness to dielectric evolution.
 
 <div class="row justify-content-sm-center">
   <div class="col-sm-6 mt-3 mt-md-0">
@@ -33,10 +34,9 @@ Strain-induced shifts in **E₁ and E₂** transitions were extracted via **seco
   © American Physical Society, License RNP/25/OCT/097415.
 </div>
 
-**Key Results:**
+**Key Findings:**
 
 - Extracted full **(n, k)** and **(ε₁, ε₂)** spectra for strained Ge.
-- Observed **redshifts** in E₁/E₂ transitions consistent with deformation potential theory.
 - Developed a **multi-layer optical model** including surface and oxide effects.
 - Established **strain–band-structure correlation** for Si-compatible photonics.
 
@@ -45,7 +45,7 @@ Strain-induced shifts in **E₁ and E₂** transitions were extracted via **seco
 ## Methods
 
 - **Spectroscopic Ellipsometry** (0.4–4.5 eV)
-- **Critical-Point Line-Shape Analysis**
+- **Critical-Point Analysis**
 
 ---
 
@@ -55,3 +55,5 @@ Strain-induced shifts in **E₁ and E₂** transitions were extracted via **seco
    _Rutwik Joshi, Nina Hong, Neha Singh, Muntasir Mahdi, and Mantu K. Hudait_
    _Phys. Rev. Applied_ **23**, 024037 (2025)  
    DOI: [10.1103/PhysRevApplied.23.024037](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.23.024037)
+2. **Impact of defects, buffer layer thickness, and substrate orientation on optical properties of epitaxial germanium** (Under Review)
+   _Muntasir Mahdi, Nina Hong, Neha Singh, Mantu K. Hudait_

@@ -5,11 +5,12 @@ description: Analysis of CNTFET performance and parameter variation using MATLAB
 img: https://cdn.arstechnica.net/wp-content/uploads/2017/07/nanotube.jpg
 importance: 3
 category: Undergraduate Projects
-related_publications: true
+related_publications: false
 ---
 
-his project explored the **electrical characterization and modeling of carbon nanotube field-effect transistors (CNTFETs)**, focusing on how device parameters and doping profiles influence transport behavior.  
-The analysis was carried out using **MATLAB** and **Simulink**, along with **nonequilibrium Green’s function (NEGF)**-based simulation frameworks.
+This project explored the 
+- **Electrical characterization and modeling of carbon nanotube field-effect transistors (CNTFETs)**, focusing on how device parameters and doping profiles influence transport behavior.
+- Simulation: **MATLAB** and **Simulink**, along with **nonequilibrium Green’s function (NEGF)**-based frameworks.
 
 ---
 
@@ -23,19 +24,24 @@ The analysis was carried out using **MATLAB** and **Simulink**, along with **non
 
 ### Key Findings
 
-- Developed and validated an **empirical CNTFET model** for performance analysis under varying device conditions.
+- Developed and validated an **empirical CNTFET model** for performance analysis for different logical gates.
 - Investigated **doping profile effects** on device output and transconductance.
-- Demonstrated strong agreement between **empirical models** and **quantum transport simulations**.
-- Showed that **non-uniform doping** significantly influences channel control and current modulation in nanoscale CNTFETs.
+- Showed that **non-uniform doping** significantly influences channel control and subthreshold swing in nanoscale CNTFETs.
 
 ---
 
 ### Tools and Techniques
+<p align="left">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" height="40" style="margin-right:10px;">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Simulink_Logo_%28non-wordmark%29.png?20220406131749" alt="Simulink" height="40">
+</p>
 
 - **Simulation:** MATLAB, Simulink
 - **Theoretical Framework:** Nonequilibrium Green’s Function (NEGF)
-- **Device Parameters:** Channel diameter, gate oxide thickness, and doping concentration
+- **Device Parameters:** Channel diameter, gate oxide thickness, and doping concentration etc.
 - **Outputs:** I–V characteristics, transconductance, subthreshold slope
+
+
 
 ---
 
@@ -51,4 +57,4 @@ The analysis was carried out using **MATLAB** and **Simulink**, along with **non
 
 ---
 
-This study established a comprehensive computational framework for **nanoscale transistor modeling** and contributed to the understanding of **quantum transport phenomena** in carbon nanotube-based devices.
+This study established a comprehensive computational framework for **nanoscale transistor modeling** and contributed to the understanding of **ballistic transport phenomena** in carbon nanotube-based devices.

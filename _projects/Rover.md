@@ -7,8 +7,8 @@ importance: 1
 category: Undergraduate Projects
 ---
 
-This project involved the **design and fabrication of a fully functional Mars Rover prototype** capable of autonomous navigation, remote operation, and terrain adaptability.  
-It was part of the **University Rover Challenge (URC) 2015**, Utah, USA, and later the **European Rover Challenge (ERC) 2016**, Jasionka, Poland — both focused on advancing planetary exploration robotics.
+- This team project involved the **design and fabrication of a fully functional Mars Rover prototype** capable of autonomous navigation, remote operation, and terrain adaptability.
+- It was part of the **University Rover Challenge (URC) 2015**, Utah, USA, and later the **European Rover Challenge (ERC) 2016**, Jasionka, Poland — both focused on advancing planetary exploration robotics.
 
 ---
 
@@ -18,10 +18,10 @@ Between **2015 and 2017**, our interdisciplinary team at the **Shahjalal Univers
 
 I contributed primarily to:
 
-- **Motor driving circuitry design** for precision wheel and arm control
-- **Power distribution and sensor integration** (encoders, current sensing)
-- **Mechanical chassis development** for stable motion on variable slopes
-- **Testing and debugging** for field performance and autonomous operation
+- **Motor driving circuitry** for precision wheel and arm control
+- **Power distribution and sensor integration** (relays and wiring); soldering.
+- **Mechanical chassis development** for stable motion on variable slopes; used heavy cutting, drilling and grinding tools.
+- **Testing and debugging** for field performance and remote operation
 
 ---
 
@@ -64,19 +64,13 @@ Bottom: The full SUST Mars Rover team with the completed rover before internatio
 
 - **University Rover Challenge 2015**, Utah, USA – Qualified for **Critical Design Review (CDR)** stage
 - **European Rover Challenge 2016**, Poland – Selected for **final competition round**
-- Supported by **Shahjalal University Research Center (SUSTRC)**
 
-These experiences deepened our understanding of **multi-domain system integration** — from embedded control to mechanical stability — under real-world testing environments.
-
----
-
-> _“Designing for Mars was never about the destination — it was about learning to solve complex problems on Earth.”_
+Building a **Mars Rover** helped us better understand how to bring together control systems, mechanics, and real-world testing.
 
 ---
 
 ### 🧩 Funding & Support
 
-This project was supported by the  
-**Shahjalal University of Science & Technology Research Center (SUSTRC)**, Sylhet, Bangladesh.
+This project was partially supported by the **Shahjalal University of Science & Technology Research Center (SUSTRC)**, Sylhet, Bangladesh.
 
 ---

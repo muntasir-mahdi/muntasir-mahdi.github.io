@@ -7,29 +7,30 @@ importance: 3
 category: Undergraduate Projects
 ---
 
-A series of **competitive robotics projects** built during 2016, combining mechanical design, embedded control, and sensor-based automation. These robots were developed for national and inter-university competitions across Bangladesh, showcasing rapid prototyping and real-time control strategies.
+A series of **competitive robotics projects** built during 2016:
+- Mechanical design, embedded control, and sensor-based automation. 
+- Built for national and inter-university competitions across Bangladesh, 
+- Showcasing rapid prototyping and real-time control strategies.
 
 ---
 
-### ⚙️ Project Overview
+### 🏆 Competition Highlights
+
+| Year | Competition                                      | Event                      | Achievement         |
+| ---- | ------------------------------------------------ | -------------------------- | ------------------- |
+| 2016 | **Techfest**, Independent University Bangladesh  | Fighter Robot              | 🥇 Champion         |
+| 2016 | **Technovanza**, IEEE NSU Student Branch         | Sumo Robot                 | 🥉 2nd Runner-Up    |
+| 2016 | Various university workshops & internal contests | Line Follower              | Finalist/Exhibition |
+
+---
+### ⚙️ Overview
 
 - **Fighter Robot** – _Champion_, Techfest 2016, Independent University, Bangladesh  
-  Designed a robust wheeled combat robot with torque-optimized DC motors and custom blade actuation, winning first place among national participants.
-
+  Built a robust wheeled combat robot with torque-optimized DC motors and custom blade actuation, winning first place among national participants.
 - **Sumo Robot** – _3rd Place_, Technovanza 2016 (IEEE NSU Student Branch)  
   Built a fully autonomous sumo robot with real-time sensor feedback and weight-balanced chassis control.
-
-- **Maze Solver & Line Follower Robots** –  
+- **Line Follower Robots** –  
   Developed autonomous path-finding and PID-controlled navigation systems for internal workshops and competitions.
-
----
-
-### 🧩 Technical Highlights
-
-- **Control System:** Arduino-based motion control with ultrasonic, IR, and reflectance sensors
-- **Chassis Design:** Lightweight acrylic and aluminum hybrid structure for speed and torque balance
-- **Algorithms:** Real-time obstacle detection, PID tuning, and shortest-path maze solving
-- **Power System:** High-discharge Li-Po batteries for sustained competitive performance
 
 ---
 
@@ -43,45 +44,45 @@ A series of **competitive robotics projects** built during 2016, combining mecha
   Our champion team from SUST Robotics after winning national robofight competitions, TechFest 2016.
 </div>
 
-<div class="row">
-  <div class="col-sm mt-4 mt-md-0 text-center">
-    {% include figure.liquid path="assets/img/robotics/robofight_robot.jpg" title="Our RoboFight Robot" class="img-fluid rounded z-depth-1" %}
+> Participated in **10+ national robotics competitions** across Bangladesh, earning top recognitions for design, speed, and control innovation.
+
+<div class="row justify-content-center">
+  <div class="col-sm-4 mt-4 mt-md-0 text-center">
+    {% include figure.liquid path="assets/img/robotics/robofight_robot.jpg" title="RoboFight Robot" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm-4 mt-4 mt-md-0 text-center">
+    {% include figure.liquid path="assets/img/robotics/sumo2.jpg" title="Sumo Robot" class="img-fluid rounded z-depth-1" %}
+  </div>
+  <div class="col-sm-4 mt-4 mt-md-0 text-center">
+    {% include figure.liquid path="assets/img/robotics/line_follower.jpg" title="Line Follower Robot" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
 
-<div class="caption">
-  The circuitry of our robot used for the robofight.
+<div class="caption text-center mt-2">
+  Robots built for national competitions: (Left) RoboFight, (Middle) Sumo, (Right) Line Follower.
 </div>
 ---
+### 🧩 Technical Highlights
 
-### 🏆 Competition Highlights
-
-| Year | Competition                                      | Event                      | Achievement         |
-| ---- | ------------------------------------------------ | -------------------------- | ------------------- |
-| 2016 | **Techfest**, Independent University Bangladesh  | Fighter Robot              | 🥇 Champion         |
-| 2016 | **Technovanza**, IEEE NSU Student Branch         | Sumo Robot                 | 🥉 2nd Runner-Up    |
-| 2016 | Various university workshops & internal contests | Maze Solver, Line Follower | Finalist/Exhibition |
-
-> Participated in **10+ national robotics competitions** across Bangladesh, earning top recognitions for design, speed, and control innovation.
+- **Control System:** Arduino-based motion control with ultrasonic, IR, and reflectance sensors
+- **Chassis Design:** Lightweight acrylic, PVC and aluminum hybrid structure for speed and torque balance
+- **Algorithms:** Real-time obstacle detection, and PID tuning
+- **Power System:** High-discharge Li-Po batteries for sustained competitive performance
+- **Circuit Fabrication:** Used Proteus for circuit design and handmade PCBs using photopaper printed mask and Fe3O4 etch process
 
 ---
-
 ### 📰 Media Feature
 
-Our robotics journey was featured in the **Kaler Kantho National Daily** (Bangladesh), recognizing the creativity and success of the SUST Robotics Team.  
-Read the full feature here:  
-👉 [“টেক ফেস্ট সেরা” The Best in Tech Fest – Kaler Kantho (Nov 22, 2016)](https://www.kalerkantho.com/feature/campus/2016/11/22/432364)
+Our robotics journey was featured in the **Kaler Kantho National Daily** (Bangladesh), recognizing the creativity and success of the SUST Robotics Team. Read the full feature here:👉 [“টেক ফেস্ট সেরা” The Best in Tech Fest – Kaler Kantho (Nov 22, 2016)](https://www.kalerkantho.com/feature/campus/2016/11/22/432364)
 
 ---
 
 ### 🔧 Tools & Components
 
-- **Microcontrollers:** Arduino Uno / Nano
+- **Microcontrollers:** Arduino Uno / Mega
 - **Actuators:** High-torque DC and servo motors
-- **Sensors:** Ultrasonic, IR, LDR, and encoder modules
-- **Design Tools:** SolidWorks, Proteus, EagleCAD
+- **Sensors:** Ultrasonic, IR modules
+- **Design Tools:** Proteus
 - **Programming:** C/C++, embedded control logic
 
 ---
-
-> _“From combat robots to autonomous navigators — each design was a small step toward intelligent motion.”_

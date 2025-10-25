@@ -23,3 +23,44 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled",
   "tabler-icons/tabler-icons-outline"
 ;
+
+
+@media print {
+  nav, footer, .navbar, .site-header, .site-footer {
+    display: none !important;
+  }
+
+  /* 🔲 Set printable page margins */
+  @page {
+    margin: 1in; /* Increase or adjust as desired (e.g., 0.75in or 1.25in) */
+  }
+
+  body {
+    background: white !important;
+    color: #000 !important;
+    font-size: 12pt;
+    -webkit-print-color-adjust: exact; /* Keeps colors consistent in Chrome */
+    print-color-adjust: exact;
+  }
+
+  * {
+    color: #000 !important; /* Force all text and icons to print pure black */
+  }
+
+  .print-page h2 {
+    margin-top: 1.5em;
+    border-bottom: 2px solid #000;
+    padding-bottom: 0.3em;
+  }
+
+  .print-page img {
+    max-width: 100%;
+    height: auto;
+    page-break-inside: avoid;
+  }
+
+  div[style*="page-break-after: always;"]:last-child {
+    page-break-after: auto !important;
+  }
+}
+

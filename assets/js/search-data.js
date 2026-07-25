@@ -383,16 +383,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-our-work-on-on-chip-nbn-superconducting-resonators-for-hybrid-magnon-photon-systems-appeared-in-ieee-transactions-on-applied-superconductivity-2025",
+          title: 'Our work on on-chip NbN superconducting resonators for hybrid magnon–photon systems appeared in...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-new-paper-published-in-physical-review-applied-impact-of-defects-buffer-layer-thickness-and-substrate-orientation-on-the-optical-properties-of-epitaxial-germanium",
+          title: 'New paper published in Physical Review Applied: “Impact of defects, buffer-layer thickness, and...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-serving-as-instructor-of-record-for-ece-2214-physical-electronics-at-virginia-tech-summer-ii-2026",
+          title: 'Serving as Instructor of Record for ECE 2214: Physical Electronics at Virginia Tech...',
           description: "",
           section: "News",},{id: "projects-characterization-of-carbon-nanotube-field-effect-transistor-cntfet",
           title: 'Characterization of Carbon Nanotube Field-Effect Transistor (CNTFET)',
@@ -494,6 +492,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/muntasir-mahdi", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0000-0002-2251-9482", "_blank");
         },
       },{
         id: 'social-scholar',

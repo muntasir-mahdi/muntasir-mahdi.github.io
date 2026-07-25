@@ -43,6 +43,34 @@ This research examines the
 
 ---
 
+## 2️⃣ Impact of Defects, Buffer-Layer Thickness, and Substrate Orientation on the Optical Properties of Epitaxial Ge
+
+**_Phys. Rev. Applied 25, 024061 (2026)_**  
+[DOI: 10.1103/s26s-23sh](https://journals.aps.org/prapplied/abstract/10.1103/s26s-23sh)
+
+- Investigated how **defect density, buffer-layer thickness, and substrate orientation** govern the **optical constants and dielectric response** of epitaxial Ge films.
+- Combined **spectroscopic ellipsometry** with **critical-point analysis** to connect growth and structural parameters to band-structure transitions.
+
+<div class="row justify-content-sm-center">
+  <div class="col-sm-6 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/publication_preview/mm_Ge_2026.jpg" title="Optical properties of epitaxial Ge vs. buffer thickness and substrate orientation" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+<div class="caption">
+  Dependence of the epitaxial-Ge optical response on defects, buffer-layer thickness, and substrate orientation.  
+  © American Physical Society.
+</div>
+
+**Key Findings:**
+
+- Quantified how **buffer-layer thickness** and **substrate orientation** tune the **critical-point energies** and broadening.
+- Linked **defect density** to changes in the **(ε₁, ε₂)** spectra and sub-gap absorption.
+- Provided growth-condition guidance for **Si-compatible Ge photonics**.
+
+<!-- Refine the three bullets above with the paper's specific quantitative results as needed. -->
+
+---
+
 ## Methods
 
 - **Spectroscopic Ellipsometry** (0.4–4.5 eV)
@@ -56,5 +84,7 @@ This research examines the
    _Rutwik Joshi, Nina Hong, Neha Singh, Muntasir Mahdi, and Mantu K. Hudait_
    _Phys. Rev. Applied_ **23**, 024037 (2025)  
    DOI: [10.1103/PhysRevApplied.23.024037](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.23.024037)
-2. **Impact of defects, buffer layer thickness, and substrate orientation on optical properties of epitaxial germanium** (Under Review)
-   _Muntasir Mahdi, Nina Hong, Neha Singh, Mantu K. Hudait_
+2. **Impact of defects, buffer-layer thickness, and substrate orientation on the optical properties of epitaxial germanium**  
+   _Muntasir Mahdi, Nina Hong, Neha Singh, and Mantu K. Hudait_
+   _Phys. Rev. Applied_ **25**, 024061 (2026)  
+   DOI: [10.1103/s26s-23sh](https://journals.aps.org/prapplied/abstract/10.1103/s26s-23sh)

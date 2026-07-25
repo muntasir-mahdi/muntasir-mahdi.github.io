@@ -48,14 +48,6 @@ nav_order: 4
 
   <ul>
     <li>
-      <strong>Fall 2024 – VLSI Circuit Design (ECE 4205/5205)</strong><br>
-      <em>Instructor:</em> <a href="https://ece.vt.edu/people/profile/ampadu.html" target="_blank">Dr. Paul K. Ampadu</a><br>
-      – Guided 50 students in CMOS layout using <em>Cadence Virtuoso</em> and <em><a href="https://eda.ncsu.edu/freepdk/freepdk45/" target="_blank">NCSU-FreePDK45S.</a></em><br>
-      – Supported lab sessions, debugging DRC/LVS errors, and running post-layout simulations. Posted some tutorials in this <a href ="https://www.youtube.com/@NaiveScience" target="_blank">Youtube Channel</a><br>
-      – Assisted in designing and grading lab problems, midterm and final exams.
-    </li>
-
-    <li class="mt-3">
       <strong>Spring, Fall 2025 – Major Design Experience (MDE) Projects</strong><br>
       <em>Faculty Advisor:</em> <a href="https://ece.vt.edu/people/profile/hudait.html" target="_blank">Dr. Mantu K. Hudait</a><br>
       Served as Subject Matter Expert (SME) for senior design teams working on semiconductor research challenges:
@@ -63,6 +55,14 @@ nav_order: 4
         <li><em>More than Moore:</em> Guided TCAD simulations of Negative Capacitance Ge Nanosheet FETs (NC-NSFETs) and assisted in Ge MOSCAP fabrication.</li>
         <li><em>Ge/GeSn Quantum Lasers:</em> Supervised optical/electronic TCAD modeling and helped characterize Ge/GeSn quantum well structures for mid-IR lasers.</li>
       </ul>
+    </li>
+
+    <li class="mt-3">
+      <strong>Fall 2024 – VLSI Circuit Design (ECE 4205/5205)</strong><br>
+      <em>Instructor:</em> <a href="https://ece.vt.edu/people/profile/ampadu.html" target="_blank">Dr. Paul K. Ampadu</a><br>
+      – Guided 50 students in CMOS layout using <em>Cadence Virtuoso</em> and <em><a href="https://eda.ncsu.edu/freepdk/freepdk45/" target="_blank">NCSU-FreePDK45S.</a></em><br>
+      – Supported lab sessions, debugging DRC/LVS errors, and running post-layout simulations. Posted some tutorials in this <a href ="https://www.youtube.com/@NaiveScience" target="_blank">Youtube Channel</a><br>
+      – Assisted in designing and grading lab problems, midterm and final exams.
     </li>
 
   </ul>
@@ -114,6 +114,28 @@ nav_order: 4
 ---
 
 ## 👨‍🏫 Undergraduate Course Instructor
+
+<div class="teaching-entry d-flex align-items-start">
+  <!-- Text section -->
+  <div class="flex-grow-1 pe-3">
+    <h3><a href="https://ece.vt.edu/" target="_blank">Virginia Tech</a> – Department of Electrical & Computer Engineering</h3>
+    <div class="role">Instructor of Record | Summer II 2026</div>
+
+    <ul>
+      <li>
+        <strong>ECE 2214: Physical Electronics</strong><br>
+        – Instructor of Record for this undergraduate course (~40 students) on semiconductor materials and electronic device physics.<br>
+        – Deliver lectures on carrier transport, p–n junctions, and the operating principles of diodes and transistors.<br>
+        – Design lectures, assignments, and exams, and hold office hours to support student learning.
+      </li>
+    </ul>
+  </div>
+
+  <!-- Image section -->
+  <div class="text-end">
+    <img src="{{ '/assets/img/teaching/ece2214_summer2026.jpg' | relative_url }}" alt="Teaching ECE 2214: Physical Electronics" height="180">
+  </div>
+</div>
 
 <div class="teaching-entry">
   <h3><a href="https://ustc.ac.bd/" target="_blank">University of Science & Technology Chittagong (USTC)</a></h3>

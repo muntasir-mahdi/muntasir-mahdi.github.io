@@ -28,7 +28,7 @@ social: true  # includes social icons at the bottom of the page
 nav_order: 1
 
 announcements:
-  enabled: false # includes a list of news items
+  enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
@@ -93,7 +93,7 @@ I am a **Ph.D. student in Electrical Engineering at [Virginia Tech](https://ece.
 
 ## 🧪 Research Overview
 
-- **Semiconductor Devices & Materials:** Epitaxial Ge, CMOS-compatible processes, defect engineering
+- **Semiconductor Devices & Materials:** Epitaxial Ge, GeSn, CMOS-compatible processes, defect engineering
 - **Superconducting Systems:** Nb/NbN resonators, Josephson junctions, cryogenic packaging
 - **Device–Circuit Co-Design:** Modeling fabrication–performance linkage
 - **Tools:** TCAD Sentaurus, ADS, Virtuoso, Python, AFM, VNA, XRD, PPMS, Ellipsometry etc.
@@ -121,7 +121,7 @@ I am a **Ph.D. student in Electrical Engineering at [Virginia Tech](https://ece.
     <strong>M.S. in Electrical Engineering</strong>, May 2021 – Aug 2024  
     <br><a href="https://www.auburn.edu/">Auburn University</a>, Auburn, AL  
     <br>• Research: Superconducting devices, magnonics and spintronics, low-temperature measurement, process development
-    <br>• Advisor: <a href="https://fast.auburn.edu/" target="_blank">Dr. Michael C. Hamilton</a> (Research Group: <a href="https://fast.auburn.edu/">Auburn Nanosystems Group</a>)
+    <br>• Advisor: <a href="https://www.linkedin.com/in/michael-hamilton-3265909/" target="_blank">Dr. Michael C. Hamilton</a> (Research Group: <a href="https://fast.auburn.edu/">Auburn Nanosystems Group</a>)
     <br>• GPA: 3.5 / 4.0
   </div>
 </div>

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-New paper published in [*Physical Review Applied*](https://journals.aps.org/prapplied/abstract/10.1103/s26s-23sh): "Impact of defects, buffer-layer thickness, and substrate orientation on the optical properties of epitaxial germanium."
+New paper published in [_Physical Review Applied_](https://journals.aps.org/prapplied/abstract/10.1103/s26s-23sh): "Impact of defects, buffer-layer thickness, and substrate orientation on the optical properties of epitaxial germanium."

@@ -129,6 +129,7 @@ nav_order: 4
         – Design lectures, assignments, and exams, and hold office hours to support student learning.
       </li>
     </ul>
+
   </div>
 
   <!-- Image section -->

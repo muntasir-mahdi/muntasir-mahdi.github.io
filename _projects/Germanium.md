@@ -71,6 +71,24 @@ This research examines the
 
 ---
 
+## 3️⃣ Depolarization-Resolved Optical Properties of Ge₁₋ₓSnₓ
+
+**_Phys. Rev. Applied 26, 054044 (2026)_**  
+[DOI: 10.1103/qnm4-kw5r](https://journals.aps.org/prapplied/abstract/10.1103/qnm4-kw5r)
+
+- Determined the **optical constants and dielectric response of epitaxial Ge₁₋ₓSnₓ films** using **depolarization-resolved spectroscopic ellipsometry**.
+- Examined how **Sn composition, substrate orientation, and a lattice-matched configuration** reshape the **critical-point transitions** and band structure.
+
+**Key Findings:**
+
+- Extracted composition-dependent **(n, k)** and **(ε₁, ε₂)** spectra across the Ge₁₋ₓSnₓ series.
+- Showed **Sn incorporation** and **substrate orientation** systematically shift the critical-point energies.
+- Established optical design guidance for **GeSn-based Si-compatible photonics and mid-IR devices**.
+
+<!-- Add a preview figure here once an image is available, e.g. assets/img/publication_preview/mm_GeSn_2026.jpg -->
+
+---
+
 ## Methods
 
 - **Spectroscopic Ellipsometry** (0.4–4.5 eV)
@@ -88,3 +106,7 @@ This research examines the
    _Muntasir Mahdi, Nina Hong, Neha Singh, and Mantu K. Hudait_
    _Phys. Rev. Applied_ **25**, 024061 (2026)  
    DOI: [10.1103/s26s-23sh](https://journals.aps.org/prapplied/abstract/10.1103/s26s-23sh)
+3. **Depolarization-resolved study of Ge₁₋ₓSnₓ optical properties: Effects of Sn composition, substrate orientation, and lattice-matched configuration**  
+   _Muntasir Mahdi, Nina Hong, Neha Singh, Sengunthar Karthikeyan, Apoorva Rose, and Mantu K. Hudait_
+   _Phys. Rev. Applied_ **26**, 054044 (2026)  
+   DOI: [10.1103/qnm4-kw5r](https://journals.aps.org/prapplied/abstract/10.1103/qnm4-kw5r)

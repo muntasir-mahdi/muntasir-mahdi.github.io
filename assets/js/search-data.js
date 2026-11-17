@@ -405,8 +405,8 @@ ninja.data = [{
           description: "Electroplating of indium bumps on Nb and NbN coplanar waveguides and resonators for flip-chip bonded current-controlled magnon–photon coupling measurements.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Electroplating/";
-            },},{id: "projects-optical-and-electronic-properties-of-epitaxial-germanium",
-          title: 'Optical and Electronic Properties of Epitaxial Germanium',
+            },},{id: "projects-optical-and-electronic-properties-of-epitaxial-ge-and-gesn",
+          title: 'Optical and Electronic Properties of Epitaxial Ge and GeSn',
           description: "Optical characterization, modeling, and strain-dependent transitions in epitaxial Ge and GeSn thin films.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Germanium/";

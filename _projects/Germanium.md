@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Optical and Electronic Properties of Epitaxial Germanium
+title: Optical and Electronic Properties of Epitaxial Ge and GeSn
 description: Optical characterization, modeling, and strain-dependent transitions in epitaxial Ge and GeSn thin films.
-img: assets/img/publication_preview/joshi2025optical_cover.jpg
+img: assets/img/publication_preview/mahdi2026gesnpra.jpg
 importance: 1
 category: Graduate Research
 related_publications: false

@@ -85,7 +85,15 @@ This research examines the
 - Showed **Sn incorporation** and **substrate orientation** systematically shift the critical-point energies.
 - Established optical design guidance for **GeSn-based Si-compatible photonics and mid-IR devices**.
 
-<!-- Add a preview figure here once an image is available, e.g. assets/img/publication_preview/mm_GeSn_2026.jpg -->
+<div class="row justify-content-sm-center">
+  <div class="col-sm-8 mt-3 mt-md-0">
+    {% include figure.liquid path="assets/img/publication_preview/mahdi2026gesnpra.jpg" title="Refractive index of the Ge1-xSnx sample series vs photon energy" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+<div class="caption">
+  Refractive index (n) of the Ge₁₋ₓSnₓ sample series across 0.5–4.5 eV, shown as a 2D map (a) and 3D surface (b).  
+  © American Physical Society.
+</div>
 
 ---
 
